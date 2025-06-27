@@ -1,0 +1,48 @@
+Adenosine deaminase 2
+Alpha-1-acid glycoprotein 1
+Alpha-1-acid glycoprotein 2
+Alpha-1-antichymotrypsin
+Alpha-1-antitrypsin
+Alpha-2-macroglobulin
+Apolipoprotein A-I
+Azurocidin
+C-reactive protein
+Cathepsin G
+Complement C3
+Complement component C6
+Complement component C7
+Complement component C8 beta chain
+Complement component C8 gamma chain
+Complement component C9
+Cystatin-B
+Dipeptidyl peptidase 1
+Dipeptidyl peptidase 4
+Eosinophil cationic protein
+Eosinophil peroxidase
+Galectin-3
+Haptoglobin
+Heparin cofactor 2
+HLA class II histocompatibility antigen, DR alpha chain
+HLA class II histocompatibility antigen, DRB1 beta chain
+Immunoglobulin gamma-1 heavy chain
+Immunoglobulin heavy constant gamma 2
+Immunoglobulin kappa constant
+Immunoglobulin kappa variable 3-20
+Immunoglobulin lambda constant 2
+Immunoglobulin lambda constant 7
+Leukocyte elastase inhibitor
+Myeloblastin
+Myeloperoxidase
+Neutrophil elastase
+Neutrophil gelatinase-associated lipocalin
+Osteopontin
+Plasma protease C1 inhibitor
+Protein S100-A7
+Protein S100-A8
+Protein S100-A9
+Serpin B6
+Serum amyloid A-1 protein
+Serum amyloid A-2 protein
+Serum amyloid P-component
+Transmembrane protein 43
+Tryptase alpha/beta-1

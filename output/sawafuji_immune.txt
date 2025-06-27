@@ -1,0 +1,17 @@
+Apolipoprotein E
+Cathepsin G
+Complement C1q subcomponent subunit B
+Complement C1q subcomponent subunit C
+Complement C3
+Complement C4-A
+Complement component C8 beta chain
+Complement component C9
+Eosinophil peroxidase
+Immunoglobulin superfamily member 8
+Inter-alpha-trypsin inhibitor heavy chain H4
+Myeloblastin
+Myeloperoxidase
+Neutrophil defensin 1
+Neutrophil defensin 2
+Neutrophil elastase
+Protein S100-A8

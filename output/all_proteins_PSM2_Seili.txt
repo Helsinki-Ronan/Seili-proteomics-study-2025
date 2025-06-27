@@ -1,0 +1,3226 @@
+"protein_name" "sample_ID" "psm" "study" "material" "material2" "x_label"
+"1" "Titin" "1-ZH1657" 398 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"2" "Titin" "1-ZH1670" 319 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"3" "Titin" "1-ZH1659" 170 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"4" "Fibronectin" "1-ZH1670" 139 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"5" "Collagen alpha-1(I) chain" "1-ZH1658" 130 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"6" "Collagen alpha-1(I) chain" "2-ZH1673" 115 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"7" "Collagen alpha-2(I) chain" "1-ZH1658" 110 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"8" "Collagen alpha-2(I) chain" "2-ZH1672" 110 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"9" "Chondroadherin" "3-ZH1676" 110 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"10" "Collagen alpha-1(I) chain" "2-ZH1672" 109 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"11" "Superoxide dismutase [Mn], mitochondrial" "1-ZH1670" 104 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"12" "Chondroadherin" "2-ZH1672" 99 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"13" "Collagen alpha-2(I) chain" "2-ZH1673" 98 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"14" "Collagen alpha-2(I) chain" "3-ZH1676" 97 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"15" "Protein S100-A9" "1-ZH1670" 95 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"16" "Fatty acid-binding protein, adipocyte" "1-ZH1657" 91 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"17" "Biglycan" "3-ZH1676" 88 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"18" "Collagen alpha-1(I) chain" "3-ZH1676" 88 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"19" "Alpha-1-antitrypsin" "1-ZH1670" 85 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"20" "Collagen alpha-1(II) chain" "1-ZH1670" 85 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"21" "Biglycan" "2-ZH1672" 84 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"22" "Ferritin light chain" "1-ZH1670" 81 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"23" "Collagen alpha-2(I) chain" "1-ZH1659" 79 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"24" "Chondroadherin" "1-ZH1658" 78 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"25" "Biglycan" "1-ZH1670" 77 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"26" "Collagen alpha-2(I) chain" "1-ZH1670" 76 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"27" "Collagen alpha-2(IX) chain" "1-ZH1670" 69 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"28" "Biglycan" "1-ZH1658" 67 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"29" "Alpha-2-macroglobulin" "1-ZH1670" 67 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"30" "Collagen alpha-1(I) chain" "1-ZH1659" 63 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"31" "Pigment epithelium-derived factor" "3-ZH1676" 62 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"32" "Pigment epithelium-derived factor" "2-ZH1672" 59 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"33" "Alpha-1-antitrypsin" "1-ZH1659" 54 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"34" "Protein S100-A9" "1-ZH1659" 54 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"35" "Prothrombin" "2-ZH1672" 54 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"36" "Alpha-1-antichymotrypsin" "1-ZH1670" 53 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"37" "Fatty acid-binding protein, adipocyte" "1-ZH1670" 52 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"38" "Filamin-C" "1-ZH1670" 51 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"39" "Alpha-1-antitrypsin" "2-ZH1673" 51 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"40" "Albumin" "2-ZH1672" 47 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"41" "Pigment epithelium-derived factor" "1-ZH1658" 46 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"42" "Protein S100-A9" "2-ZH1673" 45 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"43" "Albumin" "3-ZH1676" 44 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"44" "Prothrombin" "1-ZH1658" 43 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"45" "Filamin-C" "1-ZH1659" 43 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"46" "Alpha-2-HS-glycoprotein" "2-ZH1672" 43 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"47" "Collagen alpha-1(XII) chain" "2-ZH1672" 43 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"48" "Prothrombin" "3-ZH1676" 40 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"49" "Biglycan" "1-ZH1659" 39 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"50" "Alpha-2-HS-glycoprotein" "3-ZH1676" 39 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"51" "Filamin-C" "1-ZH1657" 38 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"52" "Vitronectin" "1-ZH1658" 37 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"53" "Myosin-2" "1-ZH1670" 37 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"54" "Alpha-2-HS-glycoprotein" "1-ZH1658" 36 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"55" "Albumin" "1-ZH1658" 35 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"56" "Beta-glucuronidase" "1-ZH1670" 35 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"57" "Sushi repeat-containing protein SRPX2" "1-ZH1670" 35 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"58" "Asporin" "1-ZH1670" 34 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"59" "Alpha-1-antichymotrypsin" "2-ZH1673" 34 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"60" "Serum amyloid A-1 protein" "1-ZH1670" 33 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"61" "Alpha-actinin-2" "1-ZH1670" 32 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"62" "Ferritin light chain" "2-ZH1673" 31 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"63" "Alpha-1-antichymotrypsin" "1-ZH1659" 30 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"64" "Asporin" "1-ZH1659" 30 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"65" "Collagen alpha-1(IX) chain" "1-ZH1670" 30 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"66" "Filamin-A" "1-ZH1670" 29 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"67" "Myeloperoxidase" "1-ZH1659" 28 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"68" "Vitronectin" "3-ZH1676" 27 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"69" "Apolipoprotein D" "1-ZH1657" 26 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"70" "Ferritin heavy chain" "1-ZH1657" 26 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"71" "Protein S100-A8" "1-ZH1670" 26 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"72" "Collagen alpha-1(XII) chain" "1-ZH1658" 25 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"73" "Aldehyde oxidase" "1-ZH1670" 25 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"74" "Collagen alpha-1(X) chain" "1-ZH1670" 25 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"75" "Ferritin heavy chain" "1-ZH1670" 25 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"76" "Vitronectin" "2-ZH1672" 25 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"77" "Lumican" "3-ZH1676" 25 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"78" "Ferritin light chain" "1-ZH1659" 24 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"79" "Collagen alpha-1(XII) chain" "1-ZH1670" 24 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"80" "Keratin, type I cuticular Ha3-I" "2-ZH1673" 24 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"81" "KRT85_HUMAN" "2-ZH1673" 24 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"82" "Triosephosphate isomerase" "1-ZH1657" 23 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"83" "Collagen alpha-1(XII) chain" "1-ZH1659" 23 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"84" "Prolargin" "1-ZH1670" 23 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"85" "Serum amyloid P-component" "1-ZH1670" 23 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"86" "Collagen alpha-3(VI) chain" "2-ZH1672" 23 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"87" "Collagen alpha-1(XII) chain" "3-ZH1676" 23 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"88" "FABPH_HUMAN" "1-ZH1657" 22 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"89" "Superoxide dismutase [Mn], mitochondrial" "1-ZH1659" 22 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"90" "Lumican" "1-ZH1658" 21 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"91" "Lactadherin" "1-ZH1670" 21 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"92" "Lumican" "2-ZH1672" 21 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"93" "Periostin" "1-ZH1658" 20 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"94" "Aspartate aminotransferase, mitochondrial" "1-ZH1670" 20 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"95" "Serum amyloid P-component" "2-ZH1673" 20 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"96" "Collagen alpha-2(VI) chain" "1-ZH1657" 19 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"97" "Collagen alpha-2(IV) chain" "1-ZH1670" 19 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"98" "Alpha-1-acid glycoprotein 1" "2-ZH1673" 19 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"99" "Alpha-1-antitrypsin" "1-ZH1657" 18 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"100" "Aggrecan core protein" "1-ZH1670" 18 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"101" "Alpha-1-acid glycoprotein 1" "1-ZH1670" 18 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"102" "Glutathione peroxidase 3" "1-ZH1670" 18 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"103" "Myosin-binding protein C, slow-type" "1-ZH1670" 18 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"104" "Peroxiredoxin-4" "1-ZH1670" 18 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"105" "Superoxide dismutase [Mn], mitochondrial" "2-ZH1673" 18 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"106" "Anoctamin-5" "3-ZH1676" 18 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"107" "Olfactomedin-like protein 3" "1-ZH1658" 17 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"108" "Antithrombin-III" "1-ZH1670" 17 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"109" "Collagen alpha-3(VI) chain" "1-ZH1670" 17 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"110" "Immunoglobulin gamma-1 heavy chain" "1-ZH1670" 17 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"111" "Alpha-1-acid glycoprotein 1" "1-ZH1657" 16 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"112" "Myomesin-3" "1-ZH1657" 16 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"113" "Coagulation factor X" "1-ZH1658" 16 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"114" "Collagen alpha-3(VI) chain" "1-ZH1658" 16 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"115" "Fatty acid-binding protein, adipocyte" "1-ZH1659" 16 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"116" "Serum amyloid A-1 protein" "1-ZH1659" 16 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"117" "Protein S100-A8" "2-ZH1673" 16 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"118" "Albumin" "2-ZH1673" 16 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"119" "Osteomodulin" "3-ZH1676" 16 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"120" "Ferritin heavy chain" "1-ZH1659" 15 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"121" "Glyceraldehyde-3-phosphate dehydrogenase" "1-ZH1659" 15 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"122" "Protein S100-A8" "1-ZH1659" 15 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"123" "Alpha-actinin-1" "1-ZH1670" 15 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"124" "Decorin" "1-ZH1670" 15 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"125" "Vitronectin" "2-ZH1673" 15 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"126" "Olfactomedin-like protein 3" "3-ZH1676" 15 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"127" "Ferritin light chain" "1-ZH1657" 14 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"128" "Superoxide dismutase [Mn], mitochondrial" "1-ZH1657" 14 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"129" "Superoxide dismutase [Mn], mitochondrial" "1-ZH1658" 14 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"130" "Albumin" "1-ZH1670" 14 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"131" "Glyceraldehyde-3-phosphate dehydrogenase" "1-ZH1670" 14 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"132" "Mimecan" "1-ZH1670" 14 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"133" "Myeloperoxidase" "1-ZH1670" 14 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"134" "Prenylcysteine oxidase" "1-ZH1670" 14 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"135" "Anoctamin-5" "2-ZH1672" 14 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"136" "Complement component C9" "2-ZH1672" 14 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"137" "Collagen alpha-3(VI) chain" "2-ZH1673" 14 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"138" "Filamin-A" "2-ZH1673" 14 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"139" "Metalloproteinase inhibitor 3" "2-ZH1673" 14 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"140" "Microfibril-associated glycoprotein 4" "2-ZH1673" 14 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"141" "Coagulation factor IX" "3-ZH1676" 14 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"142" "Vitamin K-dependent protein C" "1-ZH1658" 13 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"143" "Decorin" "1-ZH1659" 13 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"144" "Apolipoprotein D" "1-ZH1670" 13 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"145" "Dimethylglycine dehydrogenase, mitochondrial" "1-ZH1670" 13 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"146" "CAH1_HUMAN" "1-ZH1670" 13 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"147" "Coagulation factor X" "2-ZH1672" 13 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"148" "Thrombospondin-1" "2-ZH1672" 13 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"149" "Vitamin K-dependent protein C" "2-ZH1672" 13 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"150" "Apolipoprotein D" "2-ZH1673" 13 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"151" "Ferritin heavy chain" "2-ZH1673" 13 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"152" "Protein S100-A7" "2-ZH1673" 13 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"153" "Transmembrane protein 43" "2-ZH1673" 13 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"154" "Collagen alpha-3(VI) chain" "3-ZH1676" 13 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"155" "Amine oxidase [flavin-containing] B" "1-ZH1657" 12 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"156" "Glyceraldehyde-3-phosphate dehydrogenase" "1-ZH1657" 12 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"157" "Unconventional myosin-Ib" "1-ZH1658" 12 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"158" "Collagen alpha-2(IV) chain" "1-ZH1659" 12 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"159" "Fumarylacetoacetase" "1-ZH1670" 12 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"160" "Thymidine phosphorylase" "1-ZH1670" 12 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"161" "Coagulation factor IX" "2-ZH1672" 12 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"162" "Dermatopontin" "2-ZH1672" 12 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"163" "Olfactomedin-like protein 3" "2-ZH1672" 12 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"164" "Collagen alpha-1(III) chain" "2-ZH1673" 12 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"165" "Complement component C9" "2-ZH1673" 12 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"166" "Immunoglobulin gamma-1 heavy chain" "2-ZH1673" 12 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"167" "Versican core protein" "2-ZH1673" 12 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"168" "Collagen alpha-2(I) chain" "1-ZH1656" 11 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1656
+
+Coffin
+bedding"
+"169" "Alpha-1-antichymotrypsin" "1-ZH1657" 11 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"170" "Myelin P2 protein" "1-ZH1657" 11 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"171" "Myomesin-2" "1-ZH1657" 11 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"172" "Myosin-binding protein C, slow-type" "1-ZH1657" 11 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"173" "Anoctamin-5" "1-ZH1658" 11 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"174" "Coagulation factor IX" "1-ZH1658" 11 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"175" "Mimecan" "1-ZH1659" 11 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"176" "Leukocyte elastase inhibitor" "1-ZH1670" 11 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"177" "Osteomodulin" "2-ZH1672" 11 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"178" "Unconventional myosin-Id" "2-ZH1672" 11 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"179" "Mast cell carboxypeptidase A" "2-ZH1673" 11 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"180" "C-type lectin domain family 11 member A" "3-ZH1676" 11 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"181" "Decorin" "3-ZH1676" 11 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"182" "Retina-specific copper amine oxidase" "3-ZH1676" 11 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"183" "Prenylcysteine oxidase" "1-ZH1657" 10 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"184" "Complement component C9" "1-ZH1658" 10 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"185" "Dermatopontin" "1-ZH1658" 10 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"186" "Retina-specific copper amine oxidase" "1-ZH1658" 10 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"187" "Serine protease HTRA1" "1-ZH1658" 10 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"188" "Aminopeptidase N" "1-ZH1670" 10 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"189" "Collagen alpha-2(VI) chain" "1-ZH1670" 10 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"190" "Gamma-glutamyl hydrolase" "1-ZH1670" 10 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"191" "Myomesin-2" "1-ZH1670" 10 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"192" "C-type lectin domain family 11 member A" "2-ZH1672" 10 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"193" "Unconventional myosin-Ib" "2-ZH1672" 10 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"194" "Vitamin K-dependent protein Z" "2-ZH1672" 10 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"195" "Asporin" "2-ZH1673" 10 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"196" "Epoxide hydrolase 1" "2-ZH1673" 10 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"197" "Glutathione peroxidase 3" "2-ZH1673" 10 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"198" "Plasma protease C1 inhibitor" "2-ZH1673" 10 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"199" "Cathepsin G" "2-ZH1673" 10 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"200" "Coagulation factor X" "3-ZH1676" 10 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"201" "Complement component C9" "3-ZH1676" 10 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"202" "Fatty acid-binding protein 5" "1-ZH1657" 9 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"203" "Filamin-A" "1-ZH1657" 9 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"204" "Asporin" "1-ZH1658" 9 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"205" "CD9 antigen" "1-ZH1658" 9 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"206" "Vitamin K-dependent protein Z" "1-ZH1658" 9 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"207" "Alpha-1-acid glycoprotein 1" "1-ZH1659" 9 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"208" "Immunoglobulin lambda constant 2" "1-ZH1670" 9 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"209" "Lumican" "1-ZH1670" 9 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"210" "Neutrophil elastase" "1-ZH1670" 9 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"211" "Coagulation factor VII" "2-ZH1672" 9 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"212" "Antithrombin-III" "2-ZH1673" 9 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"213" "Beta-glucuronidase" "2-ZH1673" 9 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"214" "Membrane primary amine oxidase" "2-ZH1673" 9 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"215" "Serine protease HTRA1" "3-ZH1676" 9 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"216" "Unconventional myosin-Ib" "3-ZH1676" 9 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"217" "HLA class II histocompatibility antigen, DRB1 beta chain" "1-ZH1657" 8 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"218" "Decorin" "1-ZH1658" 8 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"219" "Osteomodulin" "1-ZH1658" 8 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"220" "Unconventional myosin-Id" "1-ZH1658" 8 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"221" "Lumican" "1-ZH1659" 8 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"222" "Myosin-2" "1-ZH1659" 8 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"223" "Serum amyloid P-component" "1-ZH1659" 8 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"224" "Collagen alpha-1(VI) chain" "1-ZH1670" 8 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"225" "Immunoglobulin kappa constant" "1-ZH1670" 8 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"226" "Plasma protease C1 inhibitor" "1-ZH1670" 8 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"227" "Serine--pyruvate aminotransferase" "1-ZH1670" 8 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"228" "Decorin" "2-ZH1672" 8 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"229" "Serine protease HTRA1" "2-ZH1672" 8 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"230" "Alpha-2-macroglobulin" "2-ZH1673" 8 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"231" "Collagen alpha-1(VIII) chain" "2-ZH1673" 8 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"232" "Decorin" "2-ZH1673" 8 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"233" "Laminin subunit alpha-5" "2-ZH1673" 8 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"234" "Myeloperoxidase" "2-ZH1673" 8 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"235" "Serum amyloid A-1 protein" "2-ZH1673" 8 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"236" "Basement membrane-specific heparan sulfate proteoglycan core protein" "3-ZH1676" 8 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"237" "CD9 antigen" "3-ZH1676" 8 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"238" "Kininogen-1" "3-ZH1676" 8 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"239" "Periostin" "3-ZH1676" 8 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"240" "Collagen alpha-2(IV) chain" "1-ZH1657" 7 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"241" "Collagen alpha-3(VI) chain" "1-ZH1657" 7 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"242" "Serum amyloid P-component" "1-ZH1657" 7 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"243" "Basement membrane-specific heparan sulfate proteoglycan core protein" "1-ZH1658" 7 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"244" "C-type lectin domain family 11 member A" "1-ZH1658" 7 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"245" "Coagulation factor VII" "1-ZH1658" 7 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"246" "Collagen alpha-1(V) chain" "1-ZH1658" 7 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"247" "Fatty acid-binding protein, adipocyte" "1-ZH1658" 7 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"248" "Osteopontin" "1-ZH1658" 7 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"249" "Collagen alpha-1(III) chain" "1-ZH1659" 7 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"250" "Filamin-A" "1-ZH1659" 7 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"251" "Glutathione peroxidase 3" "1-ZH1659" 7 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"252" "Myosin-binding protein C, slow-type" "1-ZH1659" 7 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"253" "Aspartyl aminopeptidase" "1-ZH1670" 7 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"254" "Serpin B6" "1-ZH1670" 7 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"255" "Basement membrane-specific heparan sulfate proteoglycan core protein" "2-ZH1672" 7 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"256" "Collagen alpha-1(VI) chain" "2-ZH1672" 7 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"257" "Kininogen-1" "2-ZH1672" 7 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"258" "Protein Z-dependent protease inhibitor" "2-ZH1672" 7 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"259" "Vitamin K-dependent protein S" "2-ZH1672" 7 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"260" "Collagen alpha-2(IV) chain" "2-ZH1673" 7 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"261" "Prenylcysteine oxidase" "2-ZH1673" 7 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"262" "Prolargin" "2-ZH1673" 7 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"263" "Clusterin" "3-ZH1676" 7 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"264" "SPARC" "3-ZH1676" 7 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"265" "Unconventional myosin-Id" "3-ZH1676" 7 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"266" "Vitamin K-dependent protein C" "3-ZH1676" 7 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"267" "Ferritin light chain" "1-ZH1656" 6 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1656
+
+Coffin
+bedding"
+"268" "Protein S100-A9" "1-ZH1656" 6 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1656
+
+Coffin
+bedding"
+"269" "Aspartate aminotransferase, mitochondrial" "1-ZH1657" 6 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"270" "HLA class II histocompatibility antigen, DR alpha chain" "1-ZH1657" 6 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"271" "KRT81_HUMAN" "1-ZH1657" 6 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"272" "Immunoglobulin gamma-1 heavy chain" "1-ZH1658" 6 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"273" "Kininogen-1" "1-ZH1658" 6 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"274" "Protein Z-dependent protease inhibitor" "1-ZH1658" 6 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"275" "Sodium/calcium exchanger 3" "1-ZH1658" 6 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"276" "Vitamin K-dependent protein S" "1-ZH1658" 6 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"277" "Beta-glucuronidase" "1-ZH1659" 6 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"278" "Collagen alpha-3(VI) chain" "1-ZH1659" 6 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"279" "Alpha-N-acetylglucosaminidase" "1-ZH1670" 6 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"280" "Complement C3" "1-ZH1670" 6 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"281" "Fibromodulin" "1-ZH1670" 6 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"282" "Membrane primary amine oxidase" "1-ZH1670" 6 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"283" "C-reactive protein" "1-ZH1670" 6 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"284" "CD9 antigen" "2-ZH1672" 6 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"285" "Extracellular superoxide dismutase [Cu-Zn]" "2-ZH1672" 6 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"286" "Immunoglobulin gamma-1 heavy chain" "2-ZH1672" 6 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"287" "Retina-specific copper amine oxidase" "2-ZH1672" 6 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"288" "Collagen alpha-1(XII) chain" "2-ZH1673" 6 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"289" "Fibulin-2" "2-ZH1673" 6 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"290" "Lumican" "2-ZH1673" 6 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"291" "Myosin-11" "2-ZH1673" 6 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"292" "Asporin" "3-ZH1676" 6 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"293" "Bone sialoprotein 2" "3-ZH1676" 6 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"294" "Coagulation factor VII" "3-ZH1676" 6 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"295" "Dermatopontin" "3-ZH1676" 6 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"296" "Osteopontin" "3-ZH1676" 6 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"297" "Protein Z-dependent protease inhibitor" "3-ZH1676" 6 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"298" "Vitamin K-dependent protein S" "3-ZH1676" 6 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"299" "Vitrin" "3-ZH1676" 6 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"300" "Ferritin heavy chain" "1-ZH1656" 5 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1656
+
+Coffin
+bedding"
+"301" "KRT81_HUMAN" "1-ZH1656" 5 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1656
+
+Coffin
+bedding"
+"302" "Collagen alpha-1(VI) chain" "1-ZH1657" 5 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"303" "Fibronectin" "1-ZH1657" 5 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"304" "Histone H4" "1-ZH1657" 5 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"305" "L-xylulose reductase" "1-ZH1657" 5 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"306" "Mammalian ependymin-related protein 1" "1-ZH1657" 5 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"307" "Mitochondrial 2-oxoglutarate/malate carrier protein" "1-ZH1657" 5 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"308" "Myomesin-1" "1-ZH1657" 5 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"309" "Protein S100-A9" "1-ZH1657" 5 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"310" "Sarcoplasmic/endoplasmic reticulum calcium ATPase 2" "1-ZH1657" 5 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"311" "Alpha-1-antitrypsin" "1-ZH1658" 5 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"312" "Calcium/calmodulin-dependent protein kinase type II subunit alpha" "1-ZH1658" 5 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"313" "Carboxypeptidase Z" "1-ZH1658" 5 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"314" "Collagen alpha-1(VI) chain" "1-ZH1658" 5 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"315" "Collagen alpha-2(VI) chain" "1-ZH1658" 5 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"316" "Complement C3" "1-ZH1658" 5 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"317" "Extracellular superoxide dismutase [Cu-Zn]" "1-ZH1658" 5 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"318" "Titin" "1-ZH1658" 5 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"319" "Antithrombin-III" "1-ZH1659" 5 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"320" "Apolipoprotein D" "1-ZH1659" 5 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"321" "Aspartyl aminopeptidase" "1-ZH1659" 5 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"322" "Azurocidin" "1-ZH1659" 5 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"323" "Hemoglobin subunit beta" "1-ZH1659" 5 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"324" "Microfibril-associated glycoprotein 4" "1-ZH1659" 5 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"325" "Aldehyde dehydrogenase family 3 member A2" "1-ZH1670" 5 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"326" "Aspartate aminotransferase, cytoplasmic" "1-ZH1670" 5 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"327" "Chondroadherin" "1-ZH1670" 5 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"328" "Haptoglobin" "1-ZH1670" 5 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"329" "Myomesin-1" "1-ZH1670" 5 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"330" "Myomesin-3" "1-ZH1670" 5 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"331" "Protein NipSnap homolog 3A" "1-ZH1670" 5 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"332" "FABPH_HUMAN" "1-ZH1670" 5 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"333" "Antithrombin-III" "2-ZH1672" 5 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"334" "Asporin" "2-ZH1672" 5 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"335" "Clusterin" "2-ZH1672" 5 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"336" "Complement C3" "2-ZH1672" 5 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"337" "Matrix remodeling-associated protein 8" "2-ZH1672" 5 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"338" "SPARC" "2-ZH1672" 5 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"339" "Sodium/calcium exchanger 3" "2-ZH1672" 5 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"340" "Collagen alpha-2(VI) chain" "2-ZH1673" 5 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"341" "Gamma-glutamyl hydrolase" "2-ZH1673" 5 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"342" "Mimecan" "2-ZH1673" 5 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"343" "Myelin protein P0" "2-ZH1673" 5 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"344" "Myeloblastin" "2-ZH1673" 5 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"345" "Neutrophil elastase" "2-ZH1673" 5 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"346" "Neutrophil gelatinase-associated lipocalin" "2-ZH1673" 5 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"347" "Peroxiredoxin-4" "2-ZH1673" 5 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"348" "Platelet glycoprotein 4" "2-ZH1673" 5 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"349" "Sulfide:quinone oxidoreductase, mitochondrial" "2-ZH1673" 5 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"350" "Tryptase alpha/beta-1" "2-ZH1673" 5 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"351" "Voltage-dependent anion-selective channel protein 3" "2-ZH1673" 5 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"352" "Collagen alpha-1(XXII) chain" "3-ZH1676" 5 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"353" "Complement C3" "3-ZH1676" 5 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"354" "Platelet glycoprotein 4" "3-ZH1676" 5 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"355" "Alpha-1-antichymotrypsin" "1-ZH1656" 4 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1656
+
+Coffin
+bedding"
+"356" "ATP synthase subunit alpha, mitochondrial" "1-ZH1657" 4 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"357" "Alpha-2-macroglobulin" "1-ZH1657" 4 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"358" "Carnitine O-palmitoyltransferase 2, mitochondrial" "1-ZH1657" 4 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"359" "Collagen alpha-1(XII) chain" "1-ZH1657" 4 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"360" "Collagen alpha-1(XV) chain" "1-ZH1657" 4 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"361" "Hemoglobin subunit beta" "1-ZH1657" 4 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"362" "Immunoglobulin gamma-1 heavy chain" "1-ZH1657" 4 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"363" "Keratin, type I cuticular Ha3-I" "1-ZH1657" 4 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"364" "Mast cell carboxypeptidase A" "1-ZH1657" 4 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"365" "Myelin protein P0" "1-ZH1657" 4 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"366" "Toll-interacting protein" "1-ZH1657" 4 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"367" "Transmembrane protein 43" "1-ZH1657" 4 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"368" "Antithrombin-III" "1-ZH1658" 4 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"369" "Bone sialoprotein 2" "1-ZH1658" 4 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"370" "Cartilage-associated protein" "1-ZH1658" 4 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"371" "Clusterin" "1-ZH1658" 4 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"372" "Collagen alpha-1(XXII) chain" "1-ZH1658" 4 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"373" "Collagen alpha-2(XI) chain" "1-ZH1658" 4 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"374" "Phosphatidylcholine:ceramide cholinephosphotransferase 2" "1-ZH1658" 4 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"375" "Platelet glycoprotein 4" "1-ZH1658" 4 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"376" "SPARC" "1-ZH1658" 4 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"377" "Ubiquitin-60S ribosomal protein L40" "1-ZH1658" 4 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"378" "Vitrin" "1-ZH1658" 4 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"379" "Aldehyde dehydrogenase family 3 member A2" "1-ZH1659" 4 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"380" "Myomesin-2" "1-ZH1659" 4 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"381" "Myomesin-3" "1-ZH1659" 4 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"382" "Serpin B6" "1-ZH1659" 4 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"383" "Sushi repeat-containing protein SRPX2" "1-ZH1659" 4 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"384" "ATP synthase subunit gamma, mitochondrial" "1-ZH1670" 4 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"385" "Basement membrane-specific heparan sulfate proteoglycan core protein" "1-ZH1670" 4 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"386" "Cartilage matrix protein" "1-ZH1670" 4 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"387" "Creatine kinase S-type, mitochondrial" "1-ZH1670" 4 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"388" "Cystatin-B" "1-ZH1670" 4 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"389" "Glutathione synthetase" "1-ZH1670" 4 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"390" "Immunoglobulin kappa variable 3-20" "1-ZH1670" 4 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"391" "Laminin subunit gamma-1" "1-ZH1670" 4 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"392" "N-acetylgalactosamine-6-sulfatase" "1-ZH1670" 4 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"393" "N-acyl-aromatic-L-amino acid amidohydrolase (carboxylate-forming)" "1-ZH1670" 4 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"394" "Neutrophil gelatinase-associated lipocalin" "1-ZH1670" 4 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"395" "Protein NipSnap homolog 2" "1-ZH1670" 4 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"396" "MYG_HUMAN" "1-ZH1670" 4 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"397" "Bone sialoprotein 2" "2-ZH1672" 4 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"398" "Growth arrest-specific protein 6" "2-ZH1672" 4 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"399" "Lactadherin" "2-ZH1672" 4 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"400" "Osteopontin" "2-ZH1672" 4 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"401" "Tetranectin" "2-ZH1672" 4 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"402" "Vitrin" "2-ZH1672" 4 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"403" "Chymase" "2-ZH1673" 4 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"404" "Collagen alpha-1(VI) chain" "2-ZH1673" 4 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"405" "Collagen alpha-1(X) chain" "2-ZH1673" 4 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"406" "Complement C3" "2-ZH1673" 4 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"407" "Eosinophil cationic protein" "2-ZH1673" 4 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"408" "Eosinophil peroxidase" "2-ZH1673" 4 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"409" "Galectin-3" "2-ZH1673" 4 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"410" "Peroxiredoxin-6" "2-ZH1673" 4 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"411" "Secreted and transmembrane protein 1" "2-ZH1673" 4 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"412" "KRT81_HUMAN" "2-ZH1673" 4 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"413" "K1C14_HUMAN" "2-ZH1673" 4 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"414" "Carboxypeptidase Z" "3-ZH1676" 4 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"415" "Cartilage-associated protein" "3-ZH1676" 4 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"416" "Extracellular matrix protein 2" "3-ZH1676" 4 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"417" "Extracellular superoxide dismutase [Cu-Zn]" "3-ZH1676" 4 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"418" "Immunoglobulin gamma-1 heavy chain" "3-ZH1676" 4 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"419" "Sodium/calcium exchanger 3" "3-ZH1676" 4 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"420" "Tetranectin" "3-ZH1676" 4 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"421" "Ubiquitin-60S ribosomal protein L40" "3-ZH1676" 4 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"422" "C-reactive protein" "3-ZH1676" 4 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"423" "Keratin, type I cuticular Ha3-I" "1-ZH1656" 3 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1656
+
+Coffin
+bedding"
+"424" "Aldehyde dehydrogenase family 3 member A2" "1-ZH1657" 3 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"425" "Antithrombin-III" "1-ZH1657" 3 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"426" "Aspartate aminotransferase, cytoplasmic" "1-ZH1657" 3 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"427" "Collagen alpha-1(XVIII) chain" "1-ZH1657" 3 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"428" "Collagen alpha-2(I) chain" "1-ZH1657" 3 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"429" "Galectin-3" "1-ZH1657" 3 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"430" "Glycerol-3-phosphate dehydrogenase, mitochondrial" "1-ZH1657" 3 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"431" "Immunoglobulin kappa constant" "1-ZH1657" 3 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"432" "Immunoglobulin lambda constant 7" "1-ZH1657" 3 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"433" "Myeloperoxidase" "1-ZH1657" 3 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"434" "Peroxiredoxin-6" "1-ZH1657" 3 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"435" "Serpin B6" "1-ZH1657" 3 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"436" "Sialate O-acetylesterase" "1-ZH1657" 3 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"437" "Tripeptidyl-peptidase 1" "1-ZH1657" 3 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"438" "Alpha-2-macroglobulin" "1-ZH1658" 3 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"439" "Apolipoprotein A-I" "1-ZH1658" 3 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"440" "Ectonucleoside triphosphate diphosphohydrolase 3" "1-ZH1658" 3 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"441" "Filamin-C" "1-ZH1658" 3 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"442" "Growth arrest-specific protein 6" "1-ZH1658" 3 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"443" "Sodium/potassium-transporting ATPase subunit alpha-1" "1-ZH1658" 3 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"444" "Tetranectin" "1-ZH1658" 3 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"445" "Transmembrane protein 119" "1-ZH1658" 3 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"446" "Versican core protein" "1-ZH1658" 3 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"447" "GELS_HUMAN" "1-ZH1658" 3 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"448" "Collagen alpha-1(XIV) chain" "1-ZH1659" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"449" "Collagen alpha-2(VI) chain" "1-ZH1659" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"450" "Myeloblastin" "1-ZH1659" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"451" "Neutrophil elastase" "1-ZH1659" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"452" "Nucleophosmin" "1-ZH1659" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"453" "Prolargin" "1-ZH1659" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"454" "Alpha-1-acid glycoprotein 2" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"455" "Alpha-actinin-3" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"456" "Amine oxidase [flavin-containing] B" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"457" "Carboxypeptidase A1" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"458" "Carnitine O-palmitoyltransferase 2, mitochondrial" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"459" "Cartilage intermediate layer protein 2" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"460" "Choline transporter-like protein 2" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"461" "Collagen alpha-1(I) chain" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"462" "Collagen alpha-1(III) chain" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"463" "Collagen alpha-1(VIII) chain" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"464" "Eosinophil cationic protein" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"465" "Epiphycan" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"466" "Glutathione peroxidase 1" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"467" "Histone H4" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"468" "Immunoglobulin heavy constant gamma 2" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"469" "Kallistatin" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"470" "Mast cell carboxypeptidase A" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"471" "Mitochondrial 2-oxoglutarate/malate carrier protein" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"472" "Myeloblastin" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"473" "Protein CREG1" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"474" "Ribonuclease 4" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"475" "Transthyretin" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"476" "Tripeptidyl-peptidase 1" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"477" "Ubiquitin-60S ribosomal protein L40" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"478" "Urocanate hydratase" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"479" "Xanthine dehydrogenase/oxidase" "1-ZH1670" 3 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"480" "Calcium/calmodulin-dependent protein kinase type II subunit alpha" "2-ZH1672" 3 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"481" "Carboxypeptidase Z" "2-ZH1672" 3 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"482" "Cartilage-associated protein" "2-ZH1672" 3 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"483" "Collagen alpha-1(XXII) chain" "2-ZH1672" 3 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"484" "Collagen alpha-2(VI) chain" "2-ZH1672" 3 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"485" "Complement component C7" "2-ZH1672" 3 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"486" "Extracellular matrix protein 2" "2-ZH1672" 3 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"487" "Protein-lysine 6-oxidase" "2-ZH1672" 3 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"488" "Transthyretin" "2-ZH1672" 3 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"489" "Ubiquitin-60S ribosomal protein L40" "2-ZH1672" 3 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"490" "Acid ceramidase" "2-ZH1673" 3 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"491" "All-trans-retinol dehydrogenase [NAD(+)] ADH1B" "2-ZH1673" 3 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"492" "Alpha-1-acid glycoprotein 2" "2-ZH1673" 3 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"493" "Beta-hexosaminidase subunit beta" "2-ZH1673" 3 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"494" "Collagen alpha-1(XV) chain" "2-ZH1673" 3 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"495" "Collagen alpha-1(XVIII) chain" "2-ZH1673" 3 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"496" "HLA class II histocompatibility antigen, DRB1 beta chain" "2-ZH1673" 3 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"497" "Histone H4" "2-ZH1673" 3 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"498" "Immunoglobulin kappa constant" "2-ZH1673" 3 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"499" "Immunoglobulin kappa variable 3-20" "2-ZH1673" 3 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"500" "Mitochondrial 2-oxoglutarate/malate carrier protein" "2-ZH1673" 3 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"501" "Mitochondrial carrier homolog 2" "2-ZH1673" 3 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"502" "Short-chain dehydrogenase/reductase family 9C member 7" "2-ZH1673" 3 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"503" "Tripeptidyl-peptidase 1" "2-ZH1673" 3 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"504" "C-reactive protein" "2-ZH1673" 3 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"505" "Adipocyte enhancer-binding protein 1" "3-ZH1676" 3 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"506" "Antithrombin-III" "3-ZH1676" 3 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"507" "Collagen alpha-1(VI) chain" "3-ZH1676" 3 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"508" "Growth arrest-specific protein 6" "3-ZH1676" 3 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"509" "Histidine-rich glycoprotein" "3-ZH1676" 3 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"510" "Matrix remodeling-associated protein 8" "3-ZH1676" 3 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"511" "Procollagen C-endopeptidase enhancer 1" "3-ZH1676" 3 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"512" "Sphingomyelin phosphodiesterase 3" "3-ZH1676" 3 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"513" "Transmembrane protein 119" "3-ZH1676" 3 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"514" "Alpha-1-antitrypsin" "1-ZH1656" 2 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1656
+
+Coffin
+bedding"
+"515" "Hemoglobin subunit beta" "1-ZH1656" 2 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1656
+
+Coffin
+bedding"
+"516" "Keratin, type II cytoskeletal 1" "1-ZH1656" 2 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1656
+
+Coffin
+bedding"
+"517" "Titin" "1-ZH1656" 2 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1656
+
+Coffin
+bedding"
+"518" "ATP synthase subunit gamma, mitochondrial" "1-ZH1657" 2 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"519" "Acid ceramidase" "1-ZH1657" 2 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"520" "Calcium-binding mitochondrial carrier protein Aralar1" "1-ZH1657" 2 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"521" "Eosinophil cationic protein" "1-ZH1657" 2 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"522" "Phosphoglucomutase-1" "1-ZH1657" 2 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"523" "Phospholipid hydroperoxide glutathione peroxidase" "1-ZH1657" 2 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"524" "Platelet glycoprotein 4" "1-ZH1657" 2 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"525" "Protein NipSnap homolog 3B" "1-ZH1657" 2 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"526" "Telethonin" "1-ZH1657" 2 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"527" "Ubiquitin-60S ribosomal protein L40" "1-ZH1657" 2 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"528" "Cathepsin G" "1-ZH1657" 2 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"529" "MYG_HUMAN" "1-ZH1657" 2 "Seili" "coffin_bedding" "Coffin
+bedding" "1-ZH1657
+
+Coffin
+bedding"
+"530" "Alpha-1-antichymotrypsin" "1-ZH1658" 2 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"531" "Amyloid-beta A4 protein" "1-ZH1658" 2 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"532" "Complement component C6" "1-ZH1658" 2 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"533" "Complement component C8 gamma chain" "1-ZH1658" 2 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"534" "Ferritin light chain" "1-ZH1658" 2 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"535" "Fibronectin" "1-ZH1658" 2 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"536" "Histidine-rich glycoprotein" "1-ZH1658" 2 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"537" "Insulin-like growth factor-binding protein complex acid labile subunit" "1-ZH1658" 2 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"538" "Interferon-induced transmembrane protein 5" "1-ZH1658" 2 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"539" "Matrix remodeling-associated protein 8" "1-ZH1658" 2 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"540" "Procollagen C-endopeptidase enhancer 1" "1-ZH1658" 2 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"541" "Protein-lysine 6-oxidase" "1-ZH1658" 2 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"542" "Sodium/potassium-transporting ATPase subunit beta-3" "1-ZH1658" 2 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"543" "Sphingomyelin phosphodiesterase 3" "1-ZH1658" 2 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"544" "C-reactive protein" "1-ZH1658" 2 "Seili" "bone" "Bone
+ " "1-ZH1658
+
+Bone
+ "
+"545" "Albumin" "1-ZH1659" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"546" "Alpha-1-acid glycoprotein 2" "1-ZH1659" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"547" "Aspartate aminotransferase, mitochondrial" "1-ZH1659" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"548" "Carcinoembryonic antigen-related cell adhesion molecule 6" "1-ZH1659" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"549" "Collagen alpha-1(VI) chain" "1-ZH1659" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"550" "DnaJ homolog subfamily B member 9" "1-ZH1659" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"551" "Eosinophil cationic protein" "1-ZH1659" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"552" "Mast cell carboxypeptidase A" "1-ZH1659" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"553" "Protein NipSnap homolog 3B" "1-ZH1659" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"554" "Telethonin" "1-ZH1659" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"555" "Cathepsin G" "1-ZH1659" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1659
+
+Soft
+tissue"
+"556" "ATP-dependent 6-phosphofructokinase, muscle type" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"557" "Adenosine deaminase 2" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"558" "Annexin A6" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"559" "Arylsulfatase B" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"560" "Betaine--homocysteine S-methyltransferase 1" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"561" "Carboxypeptidase Q" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"562" "Dipeptidyl peptidase 4" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"563" "Epoxide hydrolase 1" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"564" "Filamin-B" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"565" "HLA class II histocompatibility antigen, DR alpha chain" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"566" "Heparin cofactor 2" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"567" "Inter-alpha-trypsin inhibitor heavy chain H6" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"568" "L-xylulose reductase" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"569" "Matrilin-3" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"570" "Obscurin" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"571" "Peroxiredoxin-6" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"572" "Phospholipase B-like 1" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"573" "Plasma serine protease inhibitor" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"574" "Plectin" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"575" "Protein NipSnap homolog 3B" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"576" "Ribose-5-phosphate isomerase" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"577" "S-methylmethionine--homocysteine S-methyltransferase BHMT2" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"578" "Serum amyloid A-2 protein" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"579" "Telethonin" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"580" "Triosephosphate isomerase" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"581" "lactoferrin" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"582" "Cathepsin G" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"583" "KCRM_HUMAN" "1-ZH1670" 2 "Seili" "soft_tissue" "Soft
+tissue" "1-ZH1670
+
+Soft
+tissue"
+"584" "Adipocyte enhancer-binding protein 1" "2-ZH1672" 2 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"585" "Alkaline phosphatase, tissue-nonspecific isozyme" "2-ZH1672" 2 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"586" "Alpha-1-antitrypsin" "2-ZH1672" 2 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"587" "Apolipoprotein A-I" "2-ZH1672" 2 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"588" "Apolipoprotein A-IV" "2-ZH1672" 2 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"589" "Complement component C8 gamma chain" "2-ZH1672" 2 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"590" "Ectonucleoside triphosphate diphosphohydrolase 3" "2-ZH1672" 2 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"591" "Endoplasmin" "2-ZH1672" 2 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"592" "Ferritin light chain" "2-ZH1672" 2 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"593" "Guanine nucleotide-binding protein G(s) subunit alpha isoforms XLas" "2-ZH1672" 2 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"594" "Insulin-like growth factor-binding protein complex acid labile subunit" "2-ZH1672" 2 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"595" "Leucine-rich repeat-containing protein 15" "2-ZH1672" 2 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"596" "Platelet glycoprotein 4" "2-ZH1672" 2 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"597" "Procollagen C-endopeptidase enhancer 1" "2-ZH1672" 2 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"598" "Prolargin" "2-ZH1672" 2 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"599" "Secreted phosphoprotein 24" "2-ZH1672" 2 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"600" "Sodium/potassium-transporting ATPase subunit beta-3" "2-ZH1672" 2 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"601" "Unconventional myosin-Ic" "2-ZH1672" 2 "Seili" "bone" "Bone
+ " "2-ZH1672
+
+Bone
+ "
+"602" "ATP synthase subunit alpha, mitochondrial" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"603" "Amine oxidase [flavin-containing] B" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"604" "Apolipoprotein B-100" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"605" "Aspartate aminotransferase, mitochondrial" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"606" "Aspartyl aminopeptidase" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"607" "Cadherin-1" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"608" "Complement component C8 beta chain" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"609" "Dipeptidyl peptidase 1" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"610" "Fibrinogen gamma chain" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"611" "Filamin-C" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"612" "Heparin cofactor 2" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"613" "Keratin, type I cuticular Ha1" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"614" "Lactadherin" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"615" "Leucine-rich repeat-containing protein 15" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"616" "Leukocyte elastase inhibitor" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"617" "Mesoderm-specific transcript homolog protein" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"618" "Microsomal glutathione S-transferase 3" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"619" "Phospholipase B-like 1" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"620" "Protein CREG1" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"621" "Q8IUT8 TREMBL:Q8IUT8 Type I hair keratin 4 - Homo sapiens (Human)." "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"622" "Receptor-type tyrosine-protein phosphatase S" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"623" "Ribonuclease 4" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"624" "Serpin B3" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"625" "Serpin B6" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"626" "Sodium/potassium-transporting ATPase subunit beta-3" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"627" "Steryl-sulfatase" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"628" "Transketolase" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"629" "Transmembrane glycoprotein NMB" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"630" "K2C6B_HUMAN" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"631" "KT33B_HUMAN" "2-ZH1673" 2 "Seili" "soft_tissue" "Soft
+tissue" "2-ZH1673
+
+Soft
+tissue"
+"632" "Alkaline phosphatase, tissue-nonspecific isozyme" "3-ZH1676" 2 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"633" "Alpha-1-antitrypsin" "3-ZH1676" 2 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"634" "Anoctamin-6" "3-ZH1676" 2 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"635" "Apolipoprotein A-I" "3-ZH1676" 2 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"636" "Apolipoprotein A-IV" "3-ZH1676" 2 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"637" "Collagen alpha-1(II) chain" "3-ZH1676" 2 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"638" "Collagen alpha-1(XV) chain" "3-ZH1676" 2 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"639" "EMILIN-1" "3-ZH1676" 2 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"640" "Insulin-like growth factor-binding protein complex acid labile subunit" "3-ZH1676" 2 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"641" "Interferon-induced transmembrane protein 5" "3-ZH1676" 2 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"642" "Lactadherin" "3-ZH1676" 2 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"643" "Prolargin" "3-ZH1676" 2 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"644" "Sodium/potassium-transporting ATPase subunit beta-3" "3-ZH1676" 2 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "
+"645" "GELS_HUMAN" "3-ZH1676" 2 "Seili" "bone" "Bone
+ " "3-ZH1676
+
+Bone
+ "

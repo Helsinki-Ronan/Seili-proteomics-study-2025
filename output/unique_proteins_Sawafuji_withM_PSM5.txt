@@ -1,0 +1,4 @@
+"protein_name"
+"1" "Bone marrow proteoglycan"
+"2" "Matrix Gla protein"
+"3" "Insulin-like growth factor II"

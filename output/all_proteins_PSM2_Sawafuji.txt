@@ -1,0 +1,1266 @@
+"protein_name" "sample_ID" "psm" "study" "material" "material2" "x_label"
+"1" "Collagen alpha-1(I) chain" "293" 358 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"2" "Collagen alpha-1(I) chain" "296" 306 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"3" "Collagen alpha-1(I) chain" "319" 278 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"4" "Collagen alpha-2(I) chain" "293" 233 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"5" "Collagen alpha-2(I) chain" "319" 207 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"6" "Collagen alpha-2(I) chain" "296" 199 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"7" "Collagen alpha-1(I) chain" "302" 162 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"8" "Collagen alpha-1(I) chain" "318" 158 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"9" "Chondroadherin" "319" 126 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"10" "Collagen alpha-2(I) chain" "302" 119 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"11" "Collagen alpha-2(I) chain" "318" 106 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"12" "Prothrombin" "319" 106 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"13" "Chondroadherin" "293" 88 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"14" "Chondroadherin" "318" 87 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"15" "Chondroadherin" "296" 82 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"16" "Biglycan" "319" 76 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"17" "Chondroadherin" "302" 75 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"18" "Collagen alpha-2(I) chain" "294" 68 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"19" "Pigment epithelium-derived factor" "319" 68 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"20" "Collagen alpha-1(I) chain" "294" 66 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"21" "Biglycan" "318" 61 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"22" "Biglycan" "293" 58 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"23" "Prothrombin" "293" 58 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"24" "Collagen alpha-2(I) chain" "301" 53 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"25" "Vitronectin" "319" 49 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"26" "Biglycan" "296" 49 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"27" "Pigment epithelium-derived factor" "293" 49 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"28" "Pigment epithelium-derived factor" "318" 48 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"29" "Albumin" "293" 48 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"30" "Pigment epithelium-derived factor" "302" 47 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"31" "Collagen alpha-1(I) chain" "301" 46 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"32" "Vitronectin" "293" 43 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"33" "Chondroadherin" "294" 39 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"34" "Alpha-2-HS-glycoprotein" "319" 39 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"35" "Lumican" "319" 35 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"36" "Prothrombin" "302" 35 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"37" "Pigment epithelium-derived factor" "296" 33 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"38" "Prothrombin" "296" 33 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"39" "Alpha-2-HS-glycoprotein" "293" 33 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"40" "Vitronectin" "296" 31 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"41" "Albumin" "319" 30 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"42" "Chondroadherin" "301" 29 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"43" "Alpha-2-HS-glycoprotein" "302" 29 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"44" "Pigment epithelium-derived factor" "301" 28 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"45" "Prothrombin" "318" 25 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"46" "Vitronectin" "302" 24 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"47" "Biglycan" "294" 23 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"48" "Pigment epithelium-derived factor" "294" 22 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"49" "Periostin" "293" 22 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"50" "Vitronectin" "318" 21 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"51" "Coagulation factor IX" "319" 21 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"52" "Albumin" "296" 21 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"53" "Albumin" "302" 21 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"54" "Osteomodulin" "319" 19 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"55" "Dermatopontin" "293" 19 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"56" "Coagulation factor VII" "319" 18 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"57" "Eosinophil peroxidase" "296" 18 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"58" "Lumican" "293" 18 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"59" "Albumin" "318" 17 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"60" "Dermatopontin" "319" 17 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"61" "Prothrombin" "301" 17 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"62" "Alpha-2-HS-glycoprotein" "296" 15 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"63" "Lumican" "302" 15 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"64" "Vitronectin" "294" 14 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"65" "Collagen alpha-1(V) chain" "319" 14 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"66" "Collagen alpha-1(XXII) chain" "319" 14 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"67" "Eosinophil peroxidase" "294" 13 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"68" "Eosinophil peroxidase" "319" 13 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"69" "Lumican" "296" 13 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"70" "Collagen alpha-1(V) chain" "293" 13 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"71" "Coagulation factor X" "319" 12 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"72" "Decorin" "319" 12 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"73" "Olfactomedin-like protein 3" "319" 12 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"74" "Protein Z-dependent protease inhibitor" "319" 12 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"75" "Albumin" "294" 11 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"76" "Coagulation factor IX" "318" 11 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"77" "Lumican" "318" 11 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"78" "Coagulation factor IX" "296" 11 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"79" "Coagulation factor IX" "302" 11 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"80" "Collagen alpha-1(XII) chain" "293" 11 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"81" "Decorin" "293" 11 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"82" "Eosinophil peroxidase" "293" 11 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"83" "Collagen alpha-1(XII) chain" "318" 10 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"84" "Bone marrow proteoglycan" "296" 10 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"85" "Dermatopontin" "296" 10 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"86" "Collagen alpha-1(V) chain" "302" 10 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"87" "Dermatopontin" "302" 10 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"88" "Coagulation factor X" "293" 10 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"89" "Insulin-like growth factor-binding protein 5" "293" 10 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"90" "Kininogen-1" "293" 10 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"91" "Alpha-2-HS-glycoprotein" "318" 9 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"92" "Osteocalcin" "319" 9 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"93" "Vitronectin" "301" 9 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"94" "Coagulation factor IX" "294" 8 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"95" "Lumican" "294" 8 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"96" "Prothrombin" "294" 8 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"97" "Decorin" "318" 8 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"98" "Dermatopontin" "318" 8 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"99" "Collagen alpha-1(XII) chain" "319" 8 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"100" "Matrix Gla protein" "319" 8 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"101" "Albumin" "301" 8 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"102" "Coagulation factor IX" "301" 8 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"103" "Coagulation factor IX" "293" 8 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"104" "Protein Z-dependent protease inhibitor" "293" 8 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"105" "Thrombospondin-1" "293" 8 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"106" "Osteomodulin" "318" 7 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"107" "Collagen alpha-1(V) chain" "296" 7 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"108" "Protein Z-dependent protease inhibitor" "296" 7 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"109" "Lumican" "301" 7 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"110" "Asporin" "293" 7 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"111" "Collagen alpha-3(VI) chain" "293" 7 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"112" "Neutrophil defensin 1" "293" 7 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"113" "Osteomodulin" "293" 7 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"114" "Coagulation factor VII" "318" 6 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"115" "Insulin-like growth factor II" "319" 6 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"116" "Kininogen-1" "319" 6 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"117" "Osteocalcin" "296" 6 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"118" "Protein Z-dependent protease inhibitor" "301" 6 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"119" "Decorin" "302" 6 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"120" "Coagulation factor VII" "293" 6 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"121" "Collagen alpha-1(XXII) chain" "293" 6 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"122" "Olfactomedin-like protein 3" "293" 6 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"123" "Osteocalcin" "293" 6 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"124" "Secreted phosphoprotein 24" "293" 6 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"125" "Tetranectin" "319" 5 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"126" "Cathepsin G" "296" 5 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"127" "Decorin" "296" 5 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"128" "Olfactomedin-like protein 3" "296" 5 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"129" "Osteomodulin" "296" 5 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"130" "Collagen alpha-1(XII) chain" "301" 5 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"131" "Insulin-like growth factor II" "302" 5 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"132" "Kininogen-1" "302" 5 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"133" "Protein Z-dependent protease inhibitor" "302" 5 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"134" "Bone marrow proteoglycan" "293" 5 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"135" "Collagen alpha-2(V) chain" "293" 5 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"136" "Matrix Gla protein" "293" 5 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"137" "Vitamin K-dependent protein C" "293" 5 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"138" "Bone marrow proteoglycan" "294" 4 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"139" "Cathepsin G" "294" 4 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"140" "Coagulation factor VII" "294" 4 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"141" "Myeloperoxidase" "294" 4 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"142" "Osteocalcin" "294" 4 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"143" "Bone marrow proteoglycan" "319" 4 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"144" "Cellular retinoic acid-binding protein 2" "319" 4 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"145" "Insulin-like growth factor-binding protein complex acid labile subunit" "319" 4 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"146" "Integrin-binding sialoprotein" "319" 4 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"147" "Neutrophil defensin 1" "319" 4 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"148" "Platelet glycoprotein 4" "319" 4 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"149" "Procollagen C-endopeptidase enhancer 1" "319" 4 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"150" "Serine protease HTRA1" "319" 4 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"151" "Thrombospondin-1" "319" 4 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"152" "Vitrin" "319" 4 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"153" "Coagulation factor VII" "296" 4 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"154" "Coagulation factor X" "296" 4 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"155" "Alpha-2-HS-glycoprotein" "301" 4 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"156" "Dermatopontin" "301" 4 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"157" "Prothymosin alpha" "301" 4 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"158" "Collagen alpha-1(XII) chain" "302" 4 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"159" "Apolipoprotein E" "293" 4 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"160" "Basement membrane-specific heparan sulfate proteoglycan core protein" "293" 4 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"161" "C-type lectin domain family 11 member A" "293" 4 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"162" "Insulin-like growth factor II" "293" 4 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"163" "Integrin-binding sialoprotein" "293" 4 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"164" "Alpha-2-HS-glycoprotein" "294" 3 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"165" "Collagen alpha-1(XXII) chain" "294" 3 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"166" "Dermatopontin" "294" 3 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"167" "Neutrophil defensin 1" "294" 3 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"168" "Osteomodulin" "294" 3 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"169" "Alpha-enolase" "318" 3 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"170" "Coagulation factor X" "318" 3 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"171" "Collagen alpha-1(XXII) chain" "318" 3 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"172" "Eosinophil peroxidase" "318" 3 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"173" "Lactadherin" "318" 3 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"174" "Matrix Gla protein" "318" 3 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"175" "Protein Z-dependent protease inhibitor" "318" 3 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"176" "Apolipoprotein E" "319" 3 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"177" "Basement membrane-specific heparan sulfate proteoglycan core protein" "319" 3 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"178" "C-type lectin domain family 11 member A" "319" 3 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"179" "Carboxypeptidase Z" "319" 3 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"180" "Cathepsin G" "319" 3 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"181" "Inter-alpha-trypsin inhibitor heavy chain H4" "319" 3 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"182" "Myeloblastin" "319" 3 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"183" "Vitamin K-dependent protein C" "319" 3 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"184" "Vitamin K-dependent protein S" "319" 3 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"185" "Collagen alpha-1(XXII) chain" "296" 3 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"186" "Collagen alpha-2(V) chain" "296" 3 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"187" "Insulin-like growth factor II" "296" 3 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"188" "Kininogen-1" "301" 3 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"189" "Osteocalcin" "301" 3 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"190" "Secreted phosphoprotein 24" "301" 3 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"191" "Collagen alpha-1(XXII) chain" "302" 3 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"192" "Neutrophil defensin 1" "302" 3 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"193" "Osteocalcin" "302" 3 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"194" "Osteomodulin" "302" 3 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"195" "Sushi repeat-containing protein SRPX" "302" 3 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"196" "Amyloid-beta precursor protein" "293" 3 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"197" "Cathepsin G" "293" 3 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"198" "Complement component C8 beta chain" "293" 3 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"199" "Endoplasmin" "293" 3 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"200" "Coagulation factor X" "294" 2 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"201" "Myeloblastin" "294" 2 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"202" "Neutrophil elastase" "294" 2 "Sawafuji" "bone" "Bone
+ " "294
+
+Bone
+ "
+"203" "Apolipoprotein E" "318" 2 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"204" "Basement membrane-specific heparan sulfate proteoglycan core protein" "318" 2 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"205" "Glyceraldehyde-3-phosphate dehydrogenase" "318" 2 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"206" "Integrin-binding sialoprotein" "318" 2 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"207" "Keratin, type II cytoskeletal 1" "318" 2 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"208" "Myeloblastin" "318" 2 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"209" "Olfactomedin-like protein 3" "318" 2 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"210" "Pyruvate kinase PKM" "318" 2 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"211" "Thrombospondin-1" "318" 2 "Sawafuji" "bone" "Bone
+ " "318
+
+Bone
+ "
+"212" "Carbohydrate sulfotransferase 13" "319" 2 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"213" "Collagen alpha-2(XI) chain" "319" 2 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"214" "Collagen alpha-3(VI) chain" "319" 2 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"215" "Complement C1q subcomponent subunit B" "319" 2 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"216" "Complement C1q subcomponent subunit C" "319" 2 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"217" "Complement C4-A" "319" 2 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"218" "Complement component C8 beta chain" "319" 2 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"219" "Complement component C9" "319" 2 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"220" "Extracellular superoxide dismutase [Cu-Zn]" "319" 2 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"221" "Peptidyl-prolyl cis-trans isomerase B" "319" 2 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"222" "Protein S100-A8" "319" 2 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"223" "Transthyretin" "319" 2 "Sawafuji" "bone" "Bone
+ " "319
+
+Bone
+ "
+"224" "Apolipoprotein E" "296" 2 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"225" "Basement membrane-specific heparan sulfate proteoglycan core protein" "296" 2 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"226" "Collagen alpha-1(XII) chain" "296" 2 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"227" "Collagen alpha-3(VI) chain" "296" 2 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"228" "Kininogen-1" "296" 2 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"229" "Neutrophil defensin 1" "296" 2 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"230" "Tetranectin" "296" 2 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"231" "Thrombospondin-1" "296" 2 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"232" "Vitamin K-dependent protein C" "296" 2 "Sawafuji" "bone" "Bone
+ " "296
+
+Bone
+ "
+"233" "Asporin" "301" 2 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"234" "Collagen alpha-1(XXII) chain" "301" 2 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"235" "Eosinophil peroxidase" "301" 2 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"236" "Glyceraldehyde-3-phosphate dehydrogenase" "301" 2 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"237" "Heterogeneous nuclear ribonucleoprotein C" "301" 2 "Sawafuji" "bone" "Bone
+ " "301
+
+Bone
+ "
+"238" "Apolipoprotein E" "302" 2 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"239" "Basement membrane-specific heparan sulfate proteoglycan core protein" "302" 2 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"240" "Coagulation factor X" "302" 2 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"241" "Collagen alpha-3(VI) chain" "302" 2 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"242" "Integrin-binding sialoprotein" "302" 2 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"243" "Neutrophil defensin 2" "302" 2 "Sawafuji" "bone" "Bone
+ " "302
+
+Bone
+ "
+"244" "Collagen alpha-2(VI) chain" "293" 2 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"245" "Collagen alpha-2(XI) chain" "293" 2 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"246" "Complement C3" "293" 2 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"247" "Immunoglobulin superfamily member 8" "293" 2 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"248" "Inter-alpha-trypsin inhibitor heavy chain H4" "293" 2 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"249" "Mimecan" "293" 2 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"250" "Myeloblastin" "293" 2 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"251" "Phosphoethanolamine/phosphocholine phosphatase" "293" 2 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"252" "Proteoglycan 3" "293" 2 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "
+"253" "Tetranectin" "293" 2 "Sawafuji" "bone" "Bone
+ " "293
+
+Bone
+ "

@@ -1,0 +1,1556 @@
+"protein_name" "sample_ID" "psm" "study" "material" "material2" "x_label"
+"1" "Collagen alpha-1(I) chain" "NP6090" 458 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"2" "Collagen alpha-1(I) chain" "NP6086" 446 "Mickleburgh" "bone" "Bone
+ " "NP6086
+
+Bone
+ "
+"3" "Collagen alpha-1(I) chain" "NP6083" 431 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"4" "Collagen alpha-1(I) chain" "NP6088" 423 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"5" "Collagen alpha-1(I) chain" "NP6089" 422 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"6" "Collagen alpha-1(I) chain" "NP6085" 420 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"7" "Collagen alpha-2(I) chain" "NP6090" 397 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"8" "Collagen alpha-2(I) chain" "NP6086" 380 "Mickleburgh" "bone" "Bone
+ " "NP6086
+
+Bone
+ "
+"9" "Collagen alpha-2(I) chain" "NP6088" 374 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"10" "Collagen alpha-1(I) chain" "NP6084" 369 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"11" "Collagen alpha-2(I) chain" "NP6089" 368 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"12" "Collagen alpha-2(I) chain" "NP6083" 351 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"13" "Collagen alpha-1(I) chain" "NP6082" 344 "Mickleburgh" "bone" "Bone
+ " "NP6082
+
+Bone
+ "
+"14" "Collagen alpha-2(I) chain" "NP6082" 323 "Mickleburgh" "bone" "Bone
+ " "NP6082
+
+Bone
+ "
+"15" "Collagen alpha-2(I) chain" "NP6085" 314 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"16" "Collagen alpha-2(I) chain" "NP6084" 289 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"17" "Biglycan" "NP6085" 110 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"18" "Biglycan" "NP6088" 105 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"19" "Biglycan" "NP6090" 105 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"20" "Alpha-2-HS-glycoprotein" "NP6088" 102 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"21" "Alpha-2-HS-glycoprotein" "NP6083" 96 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"22" "Biglycan" "NP6083" 92 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"23" "Alpha-2-HS-glycoprotein" "NP6085" 92 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"24" "Alpha-2-HS-glycoprotein" "NP6090" 87 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"25" "Biglycan" "NP6089" 69 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"26" "Prothrombin" "NP6088" 65 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"27" "Chondroadherin" "NP6083" 63 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"28" "Chondroadherin" "NP6088" 61 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"29" "Prothrombin" "NP6083" 57 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"30" "Prothrombin" "NP6085" 54 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"31" "Alpha-2-HS-glycoprotein" "NP6089" 54 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"32" "Vimentin" "NP6089" 50 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"33" "Alpha-2-HS-glycoprotein" "NP6086" 48 "Mickleburgh" "bone" "Bone
+ " "NP6086
+
+Bone
+ "
+"34" "Prothrombin" "NP6090" 48 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"35" "Alpha-2-HS-glycoprotein" "NP6084" 45 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"36" "Albumin" "NP6089" 44 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"37" "Biglycan" "NP6082" 43 "Mickleburgh" "bone" "Bone
+ " "NP6082
+
+Bone
+ "
+"38" "Hemoglobin subunit beta" "NP6089" 43 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"39" "Lumican" "NP6085" 42 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"40" "Prothrombin" "NP6089" 42 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"41" "Alpha-2-HS-glycoprotein" "NP6082" 40 "Mickleburgh" "bone" "Bone
+ " "NP6082
+
+Bone
+ "
+"42" "Chromogranin-A" "NP6089" 40 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"43" "Chondroadherin" "NP6090" 39 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"44" "Pigment epithelium-derived factor" "NP6088" 38 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"45" "Biglycan" "NP6086" 37 "Mickleburgh" "bone" "Bone
+ " "NP6086
+
+Bone
+ "
+"46" "Alpha-1-antitrypsin" "NP6089" 37 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"47" "Pigment epithelium-derived factor" "NP6083" 35 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"48" "Lumican" "NP6090" 35 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"49" "Decorin" "NP6085" 30 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"50" "Osteomodulin" "NP6085" 30 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"51" "Lumican" "NP6088" 30 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"52" "Lumican" "NP6083" 28 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"53" "Osteomodulin" "NP6083" 28 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"54" "Biglycan" "NP6084" 28 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"55" "Lumican" "NP6084" 28 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"56" "Chondroadherin" "NP6085" 28 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"57" "Prolargin" "NP6089" 28 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"58" "Lumican" "NP6089" 27 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"59" "Chondroadherin" "NP6089" 26 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"60" "Decorin" "NP6090" 26 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"61" "Albumin" "NP6085" 25 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"62" "Osteomodulin" "NP6088" 25 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"63" "Albumin" "NP6090" 25 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"64" "Decorin" "NP6089" 24 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"65" "Haptoglobin" "NP6089" 24 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"66" "Osteomodulin" "NP6090" 24 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"67" "Albumin" "NP6088" 23 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"68" "Collagen alpha-3(VI) chain" "NP6089" 23 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"69" "Collagen alpha-2(V) chain" "NP6084" 21 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"70" "SPARC" "NP6085" 21 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"71" "Lumican" "NP6086" 21 "Mickleburgh" "bone" "Bone
+ " "NP6086
+
+Bone
+ "
+"72" "Pigment epithelium-derived factor" "NP6090" 21 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"73" "Albumin" "NP6083" 19 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"74" "Pigment epithelium-derived factor" "NP6085" 19 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"75" "Collagen alpha-1(II) chain" "NP6084" 18 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"76" "SPARC" "NP6090" 18 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"77" "Lumican" "NP6082" 17 "Mickleburgh" "bone" "Bone
+ " "NP6082
+
+Bone
+ "
+"78" "Vitronectin" "NP6083" 17 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"79" "Myeloperoxidase" "NP6084" 17 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"80" "Fibromodulin" "NP6089" 17 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"81" "Immunoglobulin heavy constant gamma 3" "NP6089" 16 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"82" "Immunoglobulin kappa constant" "NP6089" 16 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"83" "Osteomodulin" "NP6089" 16 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"84" "Chondroadherin" "NP6082" 15 "Mickleburgh" "bone" "Bone
+ " "NP6082
+
+Bone
+ "
+"85" "SPARC" "NP6083" 15 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"86" "Vitronectin" "NP6088" 15 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"87" "Collagen alpha-2(V) chain" "NP6089" 15 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"88" "Immunoglobulin heavy constant alpha 1" "NP6089" 15 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"89" "Serotransferrin" "NP6089" 15 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"90" "Vitronectin" "NP6090" 15 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"91" "Chondroadherin" "NP6084" 14 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"92" "Lactotransferrin" "NP6084" 14 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"93" "SPARC" "NP6088" 14 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"94" "Hemopexin" "NP6089" 14 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"95" "Vitronectin" "NP6089" 14 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"96" "Decorin" "NP6082" 13 "Mickleburgh" "bone" "Bone
+ " "NP6082
+
+Bone
+ "
+"97" "Prothrombin" "NP6084" 13 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"98" "Vitronectin" "NP6085" 13 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"99" "Collagen alpha-2(V) chain" "NP6086" 13 "Mickleburgh" "bone" "Bone
+ " "NP6086
+
+Bone
+ "
+"100" "Decorin" "NP6088" 13 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"101" "Prothrombin" "NP6082" 12 "Mickleburgh" "bone" "Bone
+ " "NP6082
+
+Bone
+ "
+"102" "Decorin" "NP6083" 12 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"103" "Complement C3" "NP6089" 12 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"104" "Ferritin light chain" "NP6089" 12 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"105" "Histone H4" "NP6089" 12 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"106" "Albumin" "NP6084" 11 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"107" "Apolipoprotein A-I" "NP6089" 11 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"108" "Immunoglobulin heavy constant gamma 1" "NP6089" 11 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"109" "Pigment epithelium-derived factor" "NP6082" 10 "Mickleburgh" "bone" "Bone
+ " "NP6082
+
+Bone
+ "
+"110" "Prothrombin" "NP6086" 10 "Mickleburgh" "bone" "Bone
+ " "NP6086
+
+Bone
+ "
+"111" "Hemoglobin subunit alpha" "NP6089" 10 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"112" "Kininogen-1" "NP6089" 10 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"113" "Peroxiredoxin-2" "NP6089" 10 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"114" "Tenascin" "NP6089" 10 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"115" "Transthyretin" "NP6089" 10 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"116" "Vitronectin" "NP6082" 9 "Mickleburgh" "bone" "Bone
+ " "NP6082
+
+Bone
+ "
+"117" "Protein S100-A8" "NP6084" 9 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"118" "Collagen alpha-2(V) chain" "NP6085" 9 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"119" "Histone H4" "NP6085" 9 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"120" "Kininogen-1" "NP6085" 9 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"121" "Kininogen-1" "NP6088" 9 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"122" "Collagen alpha-1(VI) chain" "NP6089" 9 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"123" "Leucine-rich alpha-2-glycoprotein" "NP6089" 9 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"124" "Pigment epithelium-derived factor" "NP6089" 9 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"125" "Histone H4" "NP6090" 9 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"126" "Collagen alpha-2(V) chain" "NP6082" 8 "Mickleburgh" "bone" "Bone
+ " "NP6082
+
+Bone
+ "
+"127" "Vitronectin" "NP6084" 8 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"128" "Decorin" "NP6086" 8 "Mickleburgh" "bone" "Bone
+ " "NP6086
+
+Bone
+ "
+"129" "Collagen alpha-2(V) chain" "NP6088" 8 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"130" "Alpha-1-antichymotrypsin" "NP6089" 8 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"131" "Histone H2A type 1" "NP6089" 8 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"132" "Inter-alpha-trypsin inhibitor heavy chain H4" "NP6089" 8 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"133" "Thrombospondin-1" "NP6089" 8 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"134" "Collagen alpha-2(V) chain" "NP6090" 8 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"135" "Thrombospondin-1" "NP6083" 7 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"136" "Protein S100-A9" "NP6084" 7 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"137" "Histone H2B type 2-F" "NP6085" 7 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"138" "Coagulation factor X" "NP6088" 7 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"139" "Alpha-1B-glycoprotein" "NP6089" 7 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"140" "Complement C4-A" "NP6089" 7 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"141" "Fibrinogen beta chain" "NP6089" 7 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"142" "Inter-alpha-trypsin inhibitor heavy chain H1" "NP6089" 7 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"143" "Mimecan" "NP6089" 7 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"144" "Osteopontin" "NP6089" 7 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"145" "Secretogranin-1" "NP6089" 7 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"146" "SPARC" "NP6082" 6 "Mickleburgh" "bone" "Bone
+ " "NP6082
+
+Bone
+ "
+"147" "Coagulation factor X" "NP6083" 6 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"148" "Collagen alpha-1(V) chain" "NP6084" 6 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"149" "Kininogen-1" "NP6084" 6 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"150" "Prolargin" "NP6084" 6 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"151" "Tetranectin" "NP6085" 6 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"152" "Thrombospondin-1" "NP6088" 6 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"153" "Aggrecan core protein" "NP6089" 6 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"154" "Alpha-1-acid glycoprotein 1" "NP6089" 6 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"155" "Coagulation factor IX" "NP6089" 6 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"156" "Collagen alpha-1(III) chain" "NP6089" 6 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"157" "Collagen alpha-1(V) chain" "NP6089" 6 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"158" "Extracellular superoxide dismutase [Cu-Zn]" "NP6089" 6 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"159" "Histone H2B type 2-F" "NP6089" 6 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"160" "Immunoglobulin lambda constant 2" "NP6089" 6 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"161" "Insulin-like growth factor-binding protein 1" "NP6089" 6 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"162" "Keratin, type II cytoskeletal 1" "NP6089" 6 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"163" "Prelamin-A/C" "NP6089" 6 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"164" "SPARC" "NP6089" 6 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"165" "Tetranectin" "NP6089" 6 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"166" "Versican core protein" "NP6089" 6 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"167" "Kininogen-1" "NP6083" 5 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"168" "Transthyretin" "NP6083" 5 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"169" "Collagen alpha-1(III) chain" "NP6084" 5 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"170" "Ferritin light chain" "NP6084" 5 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"171" "SPARC" "NP6084" 5 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"172" "Tetranectin" "NP6084" 5 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"173" "Hemoglobin subunit alpha-2" "NP6085" 5 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"174" "Histone H2A type 1" "NP6085" 5 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"175" "Integrin-binding sialoprotein" "NP6085" 5 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"176" "Pigment epithelium-derived factor" "NP6086" 5 "Mickleburgh" "bone" "Bone
+ " "NP6086
+
+Bone
+ "
+"177" "Protein S100-A9" "NP6086" 5 "Mickleburgh" "bone" "Bone
+ " "NP6086
+
+Bone
+ "
+"178" "Vitronectin" "NP6086" 5 "Mickleburgh" "bone" "Bone
+ " "NP6086
+
+Bone
+ "
+"179" "Coagulation factor IX" "NP6088" 5 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"180" "Alpha-2-macroglobulin" "NP6089" 5 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"181" "Asporin" "NP6089" 5 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"182" "Clusterin" "NP6089" 5 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"183" "Coagulation factor X" "NP6089" 5 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"184" "Collagen alpha-1(II) chain" "NP6089" 5 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"185" "Inter-alpha-trypsin inhibitor heavy chain H2" "NP6089" 5 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"186" "Vitamin K-dependent protein C" "NP6089" 5 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"187" "Haptoglobin" "NP6090" 5 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"188" "Integrin-binding sialoprotein" "NP6090" 5 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"189" "Kininogen-1" "NP6090" 5 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"190" "Procollagen C-endopeptidase enhancer 1" "NP6090" 5 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"191" "Thrombospondin-1" "NP6090" 5 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"192" "Aggrecan core protein" "NP6084" 4 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"193" "Decorin" "NP6084" 4 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"194" "Neutrophil defensin 1" "NP6084" 4 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"195" "Secreted phosphoprotein 24" "NP6084" 4 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"196" "Serotransferrin" "NP6084" 4 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"197" "C-type lectin domain family 11 member A" "NP6085" 4 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"198" "Coagulation factor X" "NP6085" 4 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"199" "Collagen alpha-1(V) chain" "NP6085" 4 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"200" "Dermatopontin" "NP6085" 4 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"201" "Fibromodulin" "NP6085" 4 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"202" "Procollagen C-endopeptidase enhancer 1" "NP6085" 4 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"203" "Thrombospondin-1" "NP6085" 4 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"204" "Vimentin" "NP6085" 4 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"205" "Chondroadherin" "NP6086" 4 "Mickleburgh" "bone" "Bone
+ " "NP6086
+
+Bone
+ "
+"206" "SPARC" "NP6086" 4 "Mickleburgh" "bone" "Bone
+ " "NP6086
+
+Bone
+ "
+"207" "Procollagen C-endopeptidase enhancer 1" "NP6088" 4 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"208" "Tetranectin" "NP6088" 4 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"209" "Vitamin K-dependent protein C" "NP6088" 4 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"210" "Collagen alpha-1(XII) chain" "NP6089" 4 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"211" "Fatty acid-binding protein, adipocyte" "NP6089" 4 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"212" "Ferritin heavy chain" "NP6089" 4 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"213" "Immunoglobulin heavy constant gamma 2" "NP6089" 4 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"214" "Keratin, type II cytoskeletal 8" "NP6089" 4 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"215" "Nucleophosmin" "NP6089" 4 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"216" "Serum amyloid P-component" "NP6089" 4 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"217" "Beta-2-microglobulin" "NP6090" 4 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"218" "Coagulation factor IX" "NP6090" 4 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"219" "Coagulation factor X" "NP6090" 4 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"220" "Dermatopontin" "NP6090" 4 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"221" "Extracellular superoxide dismutase [Cu-Zn]" "NP6090" 4 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"222" "Transthyretin" "NP6090" 4 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"223" "Chromogranin-A" "NP6082" 3 "Mickleburgh" "bone" "Bone
+ " "NP6082
+
+Bone
+ "
+"224" "Osteomodulin" "NP6082" 3 "Mickleburgh" "bone" "Bone
+ " "NP6082
+
+Bone
+ "
+"225" "C-type lectin domain family 11 member A" "NP6083" 3 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"226" "Coagulation factor IX" "NP6083" 3 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"227" "Collagen alpha-2(V) chain" "NP6083" 3 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"228" "Extracellular superoxide dismutase [Cu-Zn]" "NP6083" 3 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"229" "Insulin-like growth factor-binding protein 5" "NP6083" 3 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"230" "Osteocalcin" "NP6083" 3 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"231" "Procollagen C-endopeptidase enhancer 1" "NP6083" 3 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"232" "Tetranectin" "NP6083" 3 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"233" "Vimentin" "NP6083" 3 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"234" "Azurocidin" "NP6084" 3 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"235" "Immunoglobulin gamma-1 heavy chain" "NP6084" 3 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"236" "Immunoglobulin kappa light chain" "NP6084" 3 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"237" "Osteomodulin" "NP6084" 3 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"238" "Osteopontin" "NP6084" 3 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"239" "Transthyretin" "NP6084" 3 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"240" "Collagen alpha-1(XII) chain" "NP6085" 3 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"241" "Extracellular superoxide dismutase [Cu-Zn]" "NP6085" 3 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"242" "Transthyretin" "NP6085" 3 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"243" "Albumin" "NP6086" 3 "Mickleburgh" "bone" "Bone
+ " "NP6086
+
+Bone
+ "
+"244" "Dermatopontin" "NP6088" 3 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"245" "Integrin-binding sialoprotein" "NP6088" 3 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"246" "Osteocalcin" "NP6088" 3 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"247" "Protein Z-dependent protease inhibitor" "NP6088" 3 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"248" "Transthyretin" "NP6088" 3 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"249" "Antithrombin-III" "NP6089" 3 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"250" "Beta-2-microglobulin" "NP6089" 3 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"251" "Ceruloplasmin" "NP6089" 3 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"252" "Complement C1q subcomponent subunit A" "NP6089" 3 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"253" "Complement C1q subcomponent subunit B" "NP6089" 3 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"254" "Dermatopontin" "NP6089" 3 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"255" "Fibronectin" "NP6089" 3 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"256" "Pentraxin-related protein PTX3" "NP6089" 3 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"257" "Vitamin D-binding protein" "NP6089" 3 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"258" "C-type lectin domain family 11 member A" "NP6090" 3 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"259" "Immunoglobulin kappa light chain" "NP6090" 3 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"260" "Osteocalcin" "NP6090" 3 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"261" "Tetranectin" "NP6090" 3 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"262" "Versican core protein" "NP6090" 3 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"263" "Vimentin" "NP6090" 3 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"264" "Albumin" "NP6082" 2 "Mickleburgh" "bone" "Bone
+ " "NP6082
+
+Bone
+ "
+"265" "Coagulation factor IX" "NP6082" 2 "Mickleburgh" "bone" "Bone
+ " "NP6082
+
+Bone
+ "
+"266" "Coagulation factor X" "NP6082" 2 "Mickleburgh" "bone" "Bone
+ " "NP6082
+
+Bone
+ "
+"267" "Thrombospondin-1" "NP6082" 2 "Mickleburgh" "bone" "Bone
+ " "NP6082
+
+Bone
+ "
+"268" "Transthyretin" "NP6082" 2 "Mickleburgh" "bone" "Bone
+ " "NP6082
+
+Bone
+ "
+"269" "Dermatopontin" "NP6083" 2 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"270" "Integrin-binding sialoprotein" "NP6083" 2 "Mickleburgh" "bone" "Bone
+ " "NP6083
+
+Bone
+ "
+"271" "Alpha-1-antitrypsin" "NP6084" 2 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"272" "Coagulation factor IX" "NP6084" 2 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"273" "Complement C1q subcomponent subunit A" "NP6084" 2 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"274" "Neutrophil elastase" "NP6084" 2 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"275" "Nucleophosmin" "NP6084" 2 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"276" "Osteocalcin" "NP6084" 2 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"277" "Versican core protein (Fragments)" "NP6084" 2 "Mickleburgh" "bone" "Bone
+ " "NP6084
+
+Bone
+ "
+"278" "Alkaline phosphatase, tissue-nonspecific isozyme" "NP6085" 2 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"279" "Collagen alpha-2(XI) chain" "NP6085" 2 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"280" "Kazal-type serine protease inhibitor domain-containing protein 1" "NP6085" 2 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"281" "Mimecan" "NP6085" 2 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"282" "Nucleobindin-2" "NP6085" 2 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"283" "Osteocalcin" "NP6085" 2 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"284" "Osteopontin" "NP6085" 2 "Mickleburgh" "bone" "Bone
+ " "NP6085
+
+Bone
+ "
+"285" "Azurocidin" "NP6086" 2 "Mickleburgh" "bone" "Bone
+ " "NP6086
+
+Bone
+ "
+"286" "Coagulation factor X" "NP6086" 2 "Mickleburgh" "bone" "Bone
+ " "NP6086
+
+Bone
+ "
+"287" "Dermatopontin" "NP6086" 2 "Mickleburgh" "bone" "Bone
+ " "NP6086
+
+Bone
+ "
+"288" "Protein S100-A8" "NP6086" 2 "Mickleburgh" "bone" "Bone
+ " "NP6086
+
+Bone
+ "
+"289" "Transthyretin" "NP6086" 2 "Mickleburgh" "bone" "Bone
+ " "NP6086
+
+Bone
+ "
+"290" "C-type lectin domain family 11 member A" "NP6088" 2 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"291" "Collagen alpha-1(V) chain" "NP6088" 2 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"292" "Collagen alpha-1(XII) chain" "NP6088" 2 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"293" "Insulin-like growth factor-binding protein 5" "NP6088" 2 "Mickleburgh" "bone" "Bone
+ " "NP6088
+
+Bone
+ "
+"294" "Alkaline phosphatase, tissue-nonspecific isozyme" "NP6089" 2 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"295" "All-trans-retinol dehydrogenase [NAD(+)] ADH1B" "NP6089" 2 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"296" "Carbonic anhydrase 1" "NP6089" 2 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"297" "Collagen alpha-2(VI) chain" "NP6089" 2 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"298" "Complement C1q subcomponent subunit C" "NP6089" 2 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"299" "Gelsolin" "NP6089" 2 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"300" "Hemoglobin subunit delta" "NP6089" 2 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"301" "Immunoglobulin kappa variable 3-20" "NP6089" 2 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"302" "Integrin-binding sialoprotein" "NP6089" 2 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"303" "Keratin, type I cytoskeletal 18" "NP6089" 2 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"304" "Large ribosomal subunit protein P2" "NP6089" 2 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"305" "Osteocalcin" "NP6089" 2 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"306" "Transforming growth factor-beta-induced protein ig-h3" "NP6089" 2 "Mickleburgh" "bone" "Bone
+ " "NP6089
+
+Bone
+ "
+"307" "Alpha-1-antitrypsin" "NP6090" 2 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"308" "Collagen alpha-2(XI) chain" "NP6090" 2 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"309" "Fibromodulin" "NP6090" 2 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"310" "Histone H2A type 1" "NP6090" 2 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "
+"311" "Osteopontin" "NP6090" 2 "Mickleburgh" "bone" "Bone
+ " "NP6090
+
+Bone
+ "

@@ -1,0 +1,6216 @@
+"protein_name","sample_ID","psm","study","material","material2","x_label"
+"Titin","1-ZH1657",398,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Titin","1-ZH1670",319,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Titin","1-ZH1659",170,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Fibronectin","1-ZH1670",139,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Collagen alpha-1(I) chain","1-ZH1658",130,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Collagen alpha-1(I) chain","2-ZH1673",115,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Collagen alpha-2(I) chain","1-ZH1658",110,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Collagen alpha-2(I) chain","2-ZH1672",110,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Chondroadherin","3-ZH1676",110,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Collagen alpha-1(I) chain","2-ZH1672",109,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Superoxide dismutase [Mn], mitochondrial","1-ZH1670",104,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Chondroadherin","2-ZH1672",99,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Collagen alpha-2(I) chain","2-ZH1673",98,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Collagen alpha-2(I) chain","3-ZH1676",97,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Protein S100-A9","1-ZH1670",95,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Fatty acid-binding protein, adipocyte","1-ZH1657",91,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Biglycan","3-ZH1676",88,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Collagen alpha-1(I) chain","3-ZH1676",88,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Alpha-1-antitrypsin","1-ZH1670",85,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Collagen alpha-1(II) chain","1-ZH1670",85,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Biglycan","2-ZH1672",84,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Ferritin light chain","1-ZH1670",81,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Collagen alpha-2(I) chain","1-ZH1659",79,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Chondroadherin","1-ZH1658",78,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Biglycan","1-ZH1670",77,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Collagen alpha-2(I) chain","1-ZH1670",76,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Collagen alpha-2(IX) chain","1-ZH1670",69,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Biglycan","1-ZH1658",67,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Alpha-2-macroglobulin","1-ZH1670",67,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Collagen alpha-1(I) chain","1-ZH1659",63,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Pigment epithelium-derived factor","3-ZH1676",62,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Pigment epithelium-derived factor","2-ZH1672",59,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Alpha-1-antitrypsin","1-ZH1659",54,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Protein S100-A9","1-ZH1659",54,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Prothrombin","2-ZH1672",54,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Alpha-1-antichymotrypsin","1-ZH1670",53,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Fatty acid-binding protein, adipocyte","1-ZH1670",52,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Filamin-C","1-ZH1670",51,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Alpha-1-antitrypsin","2-ZH1673",51,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Albumin","2-ZH1672",47,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Pigment epithelium-derived factor","1-ZH1658",46,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Protein S100-A9","2-ZH1673",45,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Albumin","3-ZH1676",44,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Prothrombin","1-ZH1658",43,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Filamin-C","1-ZH1659",43,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Alpha-2-HS-glycoprotein","2-ZH1672",43,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Collagen alpha-1(XII) chain","2-ZH1672",43,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Prothrombin","3-ZH1676",40,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Biglycan","1-ZH1659",39,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Alpha-2-HS-glycoprotein","3-ZH1676",39,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Filamin-C","1-ZH1657",38,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Vitronectin","1-ZH1658",37,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Myosin-2","1-ZH1670",37,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Alpha-2-HS-glycoprotein","1-ZH1658",36,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Albumin","1-ZH1658",35,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Beta-glucuronidase","1-ZH1670",35,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Sushi repeat-containing protein SRPX2","1-ZH1670",35,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Asporin","1-ZH1670",34,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Alpha-1-antichymotrypsin","2-ZH1673",34,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Serum amyloid A-1 protein","1-ZH1670",33,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Alpha-actinin-2","1-ZH1670",32,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Ferritin light chain","2-ZH1673",31,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Alpha-1-antichymotrypsin","1-ZH1659",30,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Asporin","1-ZH1659",30,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Collagen alpha-1(IX) chain","1-ZH1670",30,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Filamin-A","1-ZH1670",29,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Myeloperoxidase","1-ZH1659",28,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Vitronectin","3-ZH1676",27,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Apolipoprotein D","1-ZH1657",26,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Ferritin heavy chain","1-ZH1657",26,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Protein S100-A8","1-ZH1670",26,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Collagen alpha-1(XII) chain","1-ZH1658",25,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Aldehyde oxidase","1-ZH1670",25,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Collagen alpha-1(X) chain","1-ZH1670",25,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Ferritin heavy chain","1-ZH1670",25,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Vitronectin","2-ZH1672",25,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Lumican","3-ZH1676",25,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Ferritin light chain","1-ZH1659",24,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Collagen alpha-1(XII) chain","1-ZH1670",24,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Keratin, type I cuticular Ha3-I","2-ZH1673",24,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"KRT85_HUMAN","2-ZH1673",24,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Triosephosphate isomerase","1-ZH1657",23,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Collagen alpha-1(XII) chain","1-ZH1659",23,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Prolargin","1-ZH1670",23,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Serum amyloid P-component","1-ZH1670",23,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Collagen alpha-3(VI) chain","2-ZH1672",23,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Collagen alpha-1(XII) chain","3-ZH1676",23,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"FABPH_HUMAN","1-ZH1657",22,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Superoxide dismutase [Mn], mitochondrial","1-ZH1659",22,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Lumican","1-ZH1658",21,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Lactadherin","1-ZH1670",21,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Lumican","2-ZH1672",21,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Periostin","1-ZH1658",20,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Aspartate aminotransferase, mitochondrial","1-ZH1670",20,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Serum amyloid P-component","2-ZH1673",20,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Collagen alpha-2(VI) chain","1-ZH1657",19,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Collagen alpha-2(IV) chain","1-ZH1670",19,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Alpha-1-acid glycoprotein 1","2-ZH1673",19,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Alpha-1-antitrypsin","1-ZH1657",18,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Aggrecan core protein","1-ZH1670",18,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Alpha-1-acid glycoprotein 1","1-ZH1670",18,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Glutathione peroxidase 3","1-ZH1670",18,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Myosin-binding protein C, slow-type","1-ZH1670",18,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Peroxiredoxin-4","1-ZH1670",18,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Superoxide dismutase [Mn], mitochondrial","2-ZH1673",18,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Anoctamin-5","3-ZH1676",18,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Olfactomedin-like protein 3","1-ZH1658",17,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Antithrombin-III","1-ZH1670",17,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Collagen alpha-3(VI) chain","1-ZH1670",17,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Immunoglobulin gamma-1 heavy chain","1-ZH1670",17,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Alpha-1-acid glycoprotein 1","1-ZH1657",16,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Myomesin-3","1-ZH1657",16,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Coagulation factor X","1-ZH1658",16,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Collagen alpha-3(VI) chain","1-ZH1658",16,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Fatty acid-binding protein, adipocyte","1-ZH1659",16,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Serum amyloid A-1 protein","1-ZH1659",16,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Protein S100-A8","2-ZH1673",16,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Albumin","2-ZH1673",16,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Osteomodulin","3-ZH1676",16,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Ferritin heavy chain","1-ZH1659",15,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Glyceraldehyde-3-phosphate dehydrogenase","1-ZH1659",15,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Protein S100-A8","1-ZH1659",15,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Alpha-actinin-1","1-ZH1670",15,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Decorin","1-ZH1670",15,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Vitronectin","2-ZH1673",15,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Olfactomedin-like protein 3","3-ZH1676",15,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Ferritin light chain","1-ZH1657",14,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Superoxide dismutase [Mn], mitochondrial","1-ZH1657",14,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Superoxide dismutase [Mn], mitochondrial","1-ZH1658",14,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Albumin","1-ZH1670",14,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Glyceraldehyde-3-phosphate dehydrogenase","1-ZH1670",14,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Mimecan","1-ZH1670",14,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Myeloperoxidase","1-ZH1670",14,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Prenylcysteine oxidase","1-ZH1670",14,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Anoctamin-5","2-ZH1672",14,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Complement component C9","2-ZH1672",14,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Collagen alpha-3(VI) chain","2-ZH1673",14,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Filamin-A","2-ZH1673",14,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Metalloproteinase inhibitor 3","2-ZH1673",14,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Microfibril-associated glycoprotein 4","2-ZH1673",14,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Coagulation factor IX","3-ZH1676",14,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Vitamin K-dependent protein C","1-ZH1658",13,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Decorin","1-ZH1659",13,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Apolipoprotein D","1-ZH1670",13,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Dimethylglycine dehydrogenase, mitochondrial","1-ZH1670",13,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"CAH1_HUMAN","1-ZH1670",13,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Coagulation factor X","2-ZH1672",13,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Thrombospondin-1","2-ZH1672",13,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Vitamin K-dependent protein C","2-ZH1672",13,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Apolipoprotein D","2-ZH1673",13,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Ferritin heavy chain","2-ZH1673",13,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Protein S100-A7","2-ZH1673",13,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Transmembrane protein 43","2-ZH1673",13,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Collagen alpha-3(VI) chain","3-ZH1676",13,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Amine oxidase [flavin-containing] B","1-ZH1657",12,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Glyceraldehyde-3-phosphate dehydrogenase","1-ZH1657",12,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Unconventional myosin-Ib","1-ZH1658",12,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Collagen alpha-2(IV) chain","1-ZH1659",12,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Fumarylacetoacetase","1-ZH1670",12,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Thymidine phosphorylase","1-ZH1670",12,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Coagulation factor IX","2-ZH1672",12,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Dermatopontin","2-ZH1672",12,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Olfactomedin-like protein 3","2-ZH1672",12,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Collagen alpha-1(III) chain","2-ZH1673",12,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Complement component C9","2-ZH1673",12,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Immunoglobulin gamma-1 heavy chain","2-ZH1673",12,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Versican core protein","2-ZH1673",12,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Collagen alpha-2(I) chain","1-ZH1656",11,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1656
+
+Coffin
+bedding"
+"Alpha-1-antichymotrypsin","1-ZH1657",11,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Myelin P2 protein","1-ZH1657",11,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Myomesin-2","1-ZH1657",11,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Myosin-binding protein C, slow-type","1-ZH1657",11,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Anoctamin-5","1-ZH1658",11,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Coagulation factor IX","1-ZH1658",11,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Mimecan","1-ZH1659",11,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Leukocyte elastase inhibitor","1-ZH1670",11,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Osteomodulin","2-ZH1672",11,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Unconventional myosin-Id","2-ZH1672",11,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Mast cell carboxypeptidase A","2-ZH1673",11,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"C-type lectin domain family 11 member A","3-ZH1676",11,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Decorin","3-ZH1676",11,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Retina-specific copper amine oxidase","3-ZH1676",11,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Prenylcysteine oxidase","1-ZH1657",10,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Complement component C9","1-ZH1658",10,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Dermatopontin","1-ZH1658",10,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Retina-specific copper amine oxidase","1-ZH1658",10,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Serine protease HTRA1","1-ZH1658",10,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Aminopeptidase N","1-ZH1670",10,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Collagen alpha-2(VI) chain","1-ZH1670",10,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Gamma-glutamyl hydrolase","1-ZH1670",10,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Myomesin-2","1-ZH1670",10,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"C-type lectin domain family 11 member A","2-ZH1672",10,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Unconventional myosin-Ib","2-ZH1672",10,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Vitamin K-dependent protein Z","2-ZH1672",10,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Asporin","2-ZH1673",10,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Epoxide hydrolase 1","2-ZH1673",10,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Glutathione peroxidase 3","2-ZH1673",10,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Plasma protease C1 inhibitor","2-ZH1673",10,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Cathepsin G","2-ZH1673",10,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Coagulation factor X","3-ZH1676",10,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Complement component C9","3-ZH1676",10,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Fatty acid-binding protein 5","1-ZH1657",9,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Filamin-A","1-ZH1657",9,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Asporin","1-ZH1658",9,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"CD9 antigen","1-ZH1658",9,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Vitamin K-dependent protein Z","1-ZH1658",9,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Alpha-1-acid glycoprotein 1","1-ZH1659",9,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Immunoglobulin lambda constant 2","1-ZH1670",9,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Lumican","1-ZH1670",9,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Neutrophil elastase","1-ZH1670",9,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Coagulation factor VII","2-ZH1672",9,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Antithrombin-III","2-ZH1673",9,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Beta-glucuronidase","2-ZH1673",9,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Membrane primary amine oxidase","2-ZH1673",9,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Serine protease HTRA1","3-ZH1676",9,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Unconventional myosin-Ib","3-ZH1676",9,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"HLA class II histocompatibility antigen, DRB1 beta chain","1-ZH1657",8,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Decorin","1-ZH1658",8,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Osteomodulin","1-ZH1658",8,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Unconventional myosin-Id","1-ZH1658",8,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Lumican","1-ZH1659",8,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Myosin-2","1-ZH1659",8,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Serum amyloid P-component","1-ZH1659",8,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Collagen alpha-1(VI) chain","1-ZH1670",8,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Immunoglobulin kappa constant","1-ZH1670",8,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Plasma protease C1 inhibitor","1-ZH1670",8,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Serine--pyruvate aminotransferase","1-ZH1670",8,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Decorin","2-ZH1672",8,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Serine protease HTRA1","2-ZH1672",8,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Alpha-2-macroglobulin","2-ZH1673",8,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Collagen alpha-1(VIII) chain","2-ZH1673",8,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Decorin","2-ZH1673",8,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Laminin subunit alpha-5","2-ZH1673",8,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Myeloperoxidase","2-ZH1673",8,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Serum amyloid A-1 protein","2-ZH1673",8,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Basement membrane-specific heparan sulfate proteoglycan core protein","3-ZH1676",8,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"CD9 antigen","3-ZH1676",8,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Kininogen-1","3-ZH1676",8,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Periostin","3-ZH1676",8,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Collagen alpha-2(IV) chain","1-ZH1657",7,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Collagen alpha-3(VI) chain","1-ZH1657",7,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Serum amyloid P-component","1-ZH1657",7,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Basement membrane-specific heparan sulfate proteoglycan core protein","1-ZH1658",7,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"C-type lectin domain family 11 member A","1-ZH1658",7,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Coagulation factor VII","1-ZH1658",7,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Collagen alpha-1(V) chain","1-ZH1658",7,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Fatty acid-binding protein, adipocyte","1-ZH1658",7,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Osteopontin","1-ZH1658",7,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Collagen alpha-1(III) chain","1-ZH1659",7,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Filamin-A","1-ZH1659",7,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Glutathione peroxidase 3","1-ZH1659",7,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Myosin-binding protein C, slow-type","1-ZH1659",7,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Aspartyl aminopeptidase","1-ZH1670",7,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Serpin B6","1-ZH1670",7,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Basement membrane-specific heparan sulfate proteoglycan core protein","2-ZH1672",7,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Collagen alpha-1(VI) chain","2-ZH1672",7,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Kininogen-1","2-ZH1672",7,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Protein Z-dependent protease inhibitor","2-ZH1672",7,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Vitamin K-dependent protein S","2-ZH1672",7,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Collagen alpha-2(IV) chain","2-ZH1673",7,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Prenylcysteine oxidase","2-ZH1673",7,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Prolargin","2-ZH1673",7,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Clusterin","3-ZH1676",7,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"SPARC","3-ZH1676",7,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Unconventional myosin-Id","3-ZH1676",7,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Vitamin K-dependent protein C","3-ZH1676",7,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Ferritin light chain","1-ZH1656",6,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1656
+
+Coffin
+bedding"
+"Protein S100-A9","1-ZH1656",6,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1656
+
+Coffin
+bedding"
+"Aspartate aminotransferase, mitochondrial","1-ZH1657",6,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"HLA class II histocompatibility antigen, DR alpha chain","1-ZH1657",6,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"KRT81_HUMAN","1-ZH1657",6,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Immunoglobulin gamma-1 heavy chain","1-ZH1658",6,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Kininogen-1","1-ZH1658",6,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Protein Z-dependent protease inhibitor","1-ZH1658",6,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Sodium/calcium exchanger 3","1-ZH1658",6,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Vitamin K-dependent protein S","1-ZH1658",6,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Beta-glucuronidase","1-ZH1659",6,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Collagen alpha-3(VI) chain","1-ZH1659",6,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Alpha-N-acetylglucosaminidase","1-ZH1670",6,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Complement C3","1-ZH1670",6,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Fibromodulin","1-ZH1670",6,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Membrane primary amine oxidase","1-ZH1670",6,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"C-reactive protein","1-ZH1670",6,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"CD9 antigen","2-ZH1672",6,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Extracellular superoxide dismutase [Cu-Zn]","2-ZH1672",6,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Immunoglobulin gamma-1 heavy chain","2-ZH1672",6,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Retina-specific copper amine oxidase","2-ZH1672",6,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Collagen alpha-1(XII) chain","2-ZH1673",6,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Fibulin-2","2-ZH1673",6,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Lumican","2-ZH1673",6,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Myosin-11","2-ZH1673",6,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Asporin","3-ZH1676",6,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Bone sialoprotein 2","3-ZH1676",6,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Coagulation factor VII","3-ZH1676",6,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Dermatopontin","3-ZH1676",6,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Osteopontin","3-ZH1676",6,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Protein Z-dependent protease inhibitor","3-ZH1676",6,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Vitamin K-dependent protein S","3-ZH1676",6,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Vitrin","3-ZH1676",6,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Ferritin heavy chain","1-ZH1656",5,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1656
+
+Coffin
+bedding"
+"KRT81_HUMAN","1-ZH1656",5,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1656
+
+Coffin
+bedding"
+"Collagen alpha-1(VI) chain","1-ZH1657",5,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Fibronectin","1-ZH1657",5,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Histone H4","1-ZH1657",5,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"L-xylulose reductase","1-ZH1657",5,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Mammalian ependymin-related protein 1","1-ZH1657",5,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Mitochondrial 2-oxoglutarate/malate carrier protein","1-ZH1657",5,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Myomesin-1","1-ZH1657",5,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Protein S100-A9","1-ZH1657",5,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Sarcoplasmic/endoplasmic reticulum calcium ATPase 2","1-ZH1657",5,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Alpha-1-antitrypsin","1-ZH1658",5,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Calcium/calmodulin-dependent protein kinase type II subunit alpha","1-ZH1658",5,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Carboxypeptidase Z","1-ZH1658",5,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Collagen alpha-1(VI) chain","1-ZH1658",5,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Collagen alpha-2(VI) chain","1-ZH1658",5,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Complement C3","1-ZH1658",5,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Extracellular superoxide dismutase [Cu-Zn]","1-ZH1658",5,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Titin","1-ZH1658",5,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Antithrombin-III","1-ZH1659",5,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Apolipoprotein D","1-ZH1659",5,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Aspartyl aminopeptidase","1-ZH1659",5,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Azurocidin","1-ZH1659",5,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Hemoglobin subunit beta","1-ZH1659",5,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Microfibril-associated glycoprotein 4","1-ZH1659",5,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Aldehyde dehydrogenase family 3 member A2","1-ZH1670",5,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Aspartate aminotransferase, cytoplasmic","1-ZH1670",5,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Chondroadherin","1-ZH1670",5,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Haptoglobin","1-ZH1670",5,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Myomesin-1","1-ZH1670",5,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Myomesin-3","1-ZH1670",5,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Protein NipSnap homolog 3A","1-ZH1670",5,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"FABPH_HUMAN","1-ZH1670",5,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Antithrombin-III","2-ZH1672",5,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Asporin","2-ZH1672",5,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Clusterin","2-ZH1672",5,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Complement C3","2-ZH1672",5,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Matrix remodeling-associated protein 8","2-ZH1672",5,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"SPARC","2-ZH1672",5,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Sodium/calcium exchanger 3","2-ZH1672",5,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Collagen alpha-2(VI) chain","2-ZH1673",5,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Gamma-glutamyl hydrolase","2-ZH1673",5,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Mimecan","2-ZH1673",5,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Myelin protein P0","2-ZH1673",5,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Myeloblastin","2-ZH1673",5,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Neutrophil elastase","2-ZH1673",5,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Neutrophil gelatinase-associated lipocalin","2-ZH1673",5,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Peroxiredoxin-4","2-ZH1673",5,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Platelet glycoprotein 4","2-ZH1673",5,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Sulfide:quinone oxidoreductase, mitochondrial","2-ZH1673",5,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Tryptase alpha/beta-1","2-ZH1673",5,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Voltage-dependent anion-selective channel protein 3","2-ZH1673",5,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Collagen alpha-1(XXII) chain","3-ZH1676",5,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Complement C3","3-ZH1676",5,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Platelet glycoprotein 4","3-ZH1676",5,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Alpha-1-antichymotrypsin","1-ZH1656",4,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1656
+
+Coffin
+bedding"
+"ATP synthase subunit alpha, mitochondrial","1-ZH1657",4,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Alpha-2-macroglobulin","1-ZH1657",4,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Carnitine O-palmitoyltransferase 2, mitochondrial","1-ZH1657",4,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Collagen alpha-1(XII) chain","1-ZH1657",4,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Collagen alpha-1(XV) chain","1-ZH1657",4,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Hemoglobin subunit beta","1-ZH1657",4,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Immunoglobulin gamma-1 heavy chain","1-ZH1657",4,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Keratin, type I cuticular Ha3-I","1-ZH1657",4,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Mast cell carboxypeptidase A","1-ZH1657",4,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Myelin protein P0","1-ZH1657",4,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Toll-interacting protein","1-ZH1657",4,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Transmembrane protein 43","1-ZH1657",4,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Antithrombin-III","1-ZH1658",4,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Bone sialoprotein 2","1-ZH1658",4,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Cartilage-associated protein","1-ZH1658",4,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Clusterin","1-ZH1658",4,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Collagen alpha-1(XXII) chain","1-ZH1658",4,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Collagen alpha-2(XI) chain","1-ZH1658",4,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Phosphatidylcholine:ceramide cholinephosphotransferase 2","1-ZH1658",4,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Platelet glycoprotein 4","1-ZH1658",4,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"SPARC","1-ZH1658",4,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Ubiquitin-60S ribosomal protein L40","1-ZH1658",4,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Vitrin","1-ZH1658",4,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Aldehyde dehydrogenase family 3 member A2","1-ZH1659",4,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Myomesin-2","1-ZH1659",4,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Myomesin-3","1-ZH1659",4,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Serpin B6","1-ZH1659",4,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Sushi repeat-containing protein SRPX2","1-ZH1659",4,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"ATP synthase subunit gamma, mitochondrial","1-ZH1670",4,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Basement membrane-specific heparan sulfate proteoglycan core protein","1-ZH1670",4,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Cartilage matrix protein","1-ZH1670",4,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Creatine kinase S-type, mitochondrial","1-ZH1670",4,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Cystatin-B","1-ZH1670",4,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Glutathione synthetase","1-ZH1670",4,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Immunoglobulin kappa variable 3-20","1-ZH1670",4,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Laminin subunit gamma-1","1-ZH1670",4,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"N-acetylgalactosamine-6-sulfatase","1-ZH1670",4,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"N-acyl-aromatic-L-amino acid amidohydrolase (carboxylate-forming)","1-ZH1670",4,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Neutrophil gelatinase-associated lipocalin","1-ZH1670",4,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Protein NipSnap homolog 2","1-ZH1670",4,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"MYG_HUMAN","1-ZH1670",4,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Bone sialoprotein 2","2-ZH1672",4,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Growth arrest-specific protein 6","2-ZH1672",4,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Lactadherin","2-ZH1672",4,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Osteopontin","2-ZH1672",4,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Tetranectin","2-ZH1672",4,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Vitrin","2-ZH1672",4,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Chymase","2-ZH1673",4,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Collagen alpha-1(VI) chain","2-ZH1673",4,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Collagen alpha-1(X) chain","2-ZH1673",4,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Complement C3","2-ZH1673",4,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Eosinophil cationic protein","2-ZH1673",4,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Eosinophil peroxidase","2-ZH1673",4,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Galectin-3","2-ZH1673",4,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Peroxiredoxin-6","2-ZH1673",4,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Secreted and transmembrane protein 1","2-ZH1673",4,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"KRT81_HUMAN","2-ZH1673",4,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"K1C14_HUMAN","2-ZH1673",4,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Carboxypeptidase Z","3-ZH1676",4,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Cartilage-associated protein","3-ZH1676",4,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Extracellular matrix protein 2","3-ZH1676",4,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Extracellular superoxide dismutase [Cu-Zn]","3-ZH1676",4,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Immunoglobulin gamma-1 heavy chain","3-ZH1676",4,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Sodium/calcium exchanger 3","3-ZH1676",4,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Tetranectin","3-ZH1676",4,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Ubiquitin-60S ribosomal protein L40","3-ZH1676",4,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"C-reactive protein","3-ZH1676",4,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Keratin, type I cuticular Ha3-I","1-ZH1656",3,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1656
+
+Coffin
+bedding"
+"Aldehyde dehydrogenase family 3 member A2","1-ZH1657",3,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Antithrombin-III","1-ZH1657",3,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Aspartate aminotransferase, cytoplasmic","1-ZH1657",3,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Collagen alpha-1(XVIII) chain","1-ZH1657",3,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Collagen alpha-2(I) chain","1-ZH1657",3,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Galectin-3","1-ZH1657",3,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Glycerol-3-phosphate dehydrogenase, mitochondrial","1-ZH1657",3,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Immunoglobulin kappa constant","1-ZH1657",3,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Immunoglobulin lambda constant 7","1-ZH1657",3,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Myeloperoxidase","1-ZH1657",3,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Peroxiredoxin-6","1-ZH1657",3,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Serpin B6","1-ZH1657",3,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Sialate O-acetylesterase","1-ZH1657",3,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Tripeptidyl-peptidase 1","1-ZH1657",3,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Alpha-2-macroglobulin","1-ZH1658",3,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Apolipoprotein A-I","1-ZH1658",3,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Ectonucleoside triphosphate diphosphohydrolase 3","1-ZH1658",3,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Filamin-C","1-ZH1658",3,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Growth arrest-specific protein 6","1-ZH1658",3,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Sodium/potassium-transporting ATPase subunit alpha-1","1-ZH1658",3,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Tetranectin","1-ZH1658",3,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Transmembrane protein 119","1-ZH1658",3,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Versican core protein","1-ZH1658",3,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"GELS_HUMAN","1-ZH1658",3,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Collagen alpha-1(XIV) chain","1-ZH1659",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Collagen alpha-2(VI) chain","1-ZH1659",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Myeloblastin","1-ZH1659",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Neutrophil elastase","1-ZH1659",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Nucleophosmin","1-ZH1659",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Prolargin","1-ZH1659",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Alpha-1-acid glycoprotein 2","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Alpha-actinin-3","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Amine oxidase [flavin-containing] B","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Carboxypeptidase A1","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Carnitine O-palmitoyltransferase 2, mitochondrial","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Cartilage intermediate layer protein 2","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Choline transporter-like protein 2","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Collagen alpha-1(I) chain","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Collagen alpha-1(III) chain","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Collagen alpha-1(VIII) chain","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Eosinophil cationic protein","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Epiphycan","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Glutathione peroxidase 1","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Histone H4","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Immunoglobulin heavy constant gamma 2","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Kallistatin","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Mast cell carboxypeptidase A","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Mitochondrial 2-oxoglutarate/malate carrier protein","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Myeloblastin","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Protein CREG1","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Ribonuclease 4","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Transthyretin","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Tripeptidyl-peptidase 1","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Ubiquitin-60S ribosomal protein L40","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Urocanate hydratase","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Xanthine dehydrogenase/oxidase","1-ZH1670",3,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Calcium/calmodulin-dependent protein kinase type II subunit alpha","2-ZH1672",3,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Carboxypeptidase Z","2-ZH1672",3,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Cartilage-associated protein","2-ZH1672",3,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Collagen alpha-1(XXII) chain","2-ZH1672",3,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Collagen alpha-2(VI) chain","2-ZH1672",3,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Complement component C7","2-ZH1672",3,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Extracellular matrix protein 2","2-ZH1672",3,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Protein-lysine 6-oxidase","2-ZH1672",3,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Transthyretin","2-ZH1672",3,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Ubiquitin-60S ribosomal protein L40","2-ZH1672",3,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Acid ceramidase","2-ZH1673",3,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"All-trans-retinol dehydrogenase [NAD(+)] ADH1B","2-ZH1673",3,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Alpha-1-acid glycoprotein 2","2-ZH1673",3,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Beta-hexosaminidase subunit beta","2-ZH1673",3,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Collagen alpha-1(XV) chain","2-ZH1673",3,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Collagen alpha-1(XVIII) chain","2-ZH1673",3,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"HLA class II histocompatibility antigen, DRB1 beta chain","2-ZH1673",3,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Histone H4","2-ZH1673",3,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Immunoglobulin kappa constant","2-ZH1673",3,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Immunoglobulin kappa variable 3-20","2-ZH1673",3,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Mitochondrial 2-oxoglutarate/malate carrier protein","2-ZH1673",3,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Mitochondrial carrier homolog 2","2-ZH1673",3,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Short-chain dehydrogenase/reductase family 9C member 7","2-ZH1673",3,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Tripeptidyl-peptidase 1","2-ZH1673",3,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"C-reactive protein","2-ZH1673",3,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Adipocyte enhancer-binding protein 1","3-ZH1676",3,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Antithrombin-III","3-ZH1676",3,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Collagen alpha-1(VI) chain","3-ZH1676",3,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Growth arrest-specific protein 6","3-ZH1676",3,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Histidine-rich glycoprotein","3-ZH1676",3,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Matrix remodeling-associated protein 8","3-ZH1676",3,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Procollagen C-endopeptidase enhancer 1","3-ZH1676",3,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Sphingomyelin phosphodiesterase 3","3-ZH1676",3,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Transmembrane protein 119","3-ZH1676",3,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Alpha-1-antitrypsin","1-ZH1656",2,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1656
+
+Coffin
+bedding"
+"Hemoglobin subunit beta","1-ZH1656",2,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1656
+
+Coffin
+bedding"
+"Keratin, type II cytoskeletal 1","1-ZH1656",2,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1656
+
+Coffin
+bedding"
+"Titin","1-ZH1656",2,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1656
+
+Coffin
+bedding"
+"ATP synthase subunit gamma, mitochondrial","1-ZH1657",2,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Acid ceramidase","1-ZH1657",2,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Calcium-binding mitochondrial carrier protein Aralar1","1-ZH1657",2,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Eosinophil cationic protein","1-ZH1657",2,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Phosphoglucomutase-1","1-ZH1657",2,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Phospholipid hydroperoxide glutathione peroxidase","1-ZH1657",2,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Platelet glycoprotein 4","1-ZH1657",2,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Protein NipSnap homolog 3B","1-ZH1657",2,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Telethonin","1-ZH1657",2,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Ubiquitin-60S ribosomal protein L40","1-ZH1657",2,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Cathepsin G","1-ZH1657",2,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"MYG_HUMAN","1-ZH1657",2,"Seili","coffin_bedding","Coffin
+bedding","1-ZH1657
+
+Coffin
+bedding"
+"Alpha-1-antichymotrypsin","1-ZH1658",2,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Amyloid-beta A4 protein","1-ZH1658",2,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Complement component C6","1-ZH1658",2,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Complement component C8 gamma chain","1-ZH1658",2,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Ferritin light chain","1-ZH1658",2,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Fibronectin","1-ZH1658",2,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Histidine-rich glycoprotein","1-ZH1658",2,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Insulin-like growth factor-binding protein complex acid labile subunit","1-ZH1658",2,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Interferon-induced transmembrane protein 5","1-ZH1658",2,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Matrix remodeling-associated protein 8","1-ZH1658",2,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Procollagen C-endopeptidase enhancer 1","1-ZH1658",2,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Protein-lysine 6-oxidase","1-ZH1658",2,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Sodium/potassium-transporting ATPase subunit beta-3","1-ZH1658",2,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Sphingomyelin phosphodiesterase 3","1-ZH1658",2,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"C-reactive protein","1-ZH1658",2,"Seili","bone","Bone
+ ","1-ZH1658
+
+Bone
+ "
+"Albumin","1-ZH1659",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Alpha-1-acid glycoprotein 2","1-ZH1659",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Aspartate aminotransferase, mitochondrial","1-ZH1659",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Carcinoembryonic antigen-related cell adhesion molecule 6","1-ZH1659",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Collagen alpha-1(VI) chain","1-ZH1659",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"DnaJ homolog subfamily B member 9","1-ZH1659",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Eosinophil cationic protein","1-ZH1659",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Mast cell carboxypeptidase A","1-ZH1659",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Protein NipSnap homolog 3B","1-ZH1659",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Telethonin","1-ZH1659",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"Cathepsin G","1-ZH1659",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1659
+
+Soft
+tissue"
+"ATP-dependent 6-phosphofructokinase, muscle type","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Adenosine deaminase 2","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Annexin A6","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Arylsulfatase B","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Betaine--homocysteine S-methyltransferase 1","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Carboxypeptidase Q","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Dipeptidyl peptidase 4","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Epoxide hydrolase 1","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Filamin-B","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"HLA class II histocompatibility antigen, DR alpha chain","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Heparin cofactor 2","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Inter-alpha-trypsin inhibitor heavy chain H6","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"L-xylulose reductase","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Matrilin-3","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Obscurin","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Peroxiredoxin-6","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Phospholipase B-like 1","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Plasma serine protease inhibitor","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Plectin","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Protein NipSnap homolog 3B","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Ribose-5-phosphate isomerase","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"S-methylmethionine--homocysteine S-methyltransferase BHMT2","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Serum amyloid A-2 protein","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Telethonin","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Triosephosphate isomerase","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"lactoferrin","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Cathepsin G","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"KCRM_HUMAN","1-ZH1670",2,"Seili","soft_tissue","Soft
+tissue","1-ZH1670
+
+Soft
+tissue"
+"Adipocyte enhancer-binding protein 1","2-ZH1672",2,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Alkaline phosphatase, tissue-nonspecific isozyme","2-ZH1672",2,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Alpha-1-antitrypsin","2-ZH1672",2,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Apolipoprotein A-I","2-ZH1672",2,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Apolipoprotein A-IV","2-ZH1672",2,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Complement component C8 gamma chain","2-ZH1672",2,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Ectonucleoside triphosphate diphosphohydrolase 3","2-ZH1672",2,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Endoplasmin","2-ZH1672",2,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Ferritin light chain","2-ZH1672",2,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Guanine nucleotide-binding protein G(s) subunit alpha isoforms XLas","2-ZH1672",2,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Insulin-like growth factor-binding protein complex acid labile subunit","2-ZH1672",2,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Leucine-rich repeat-containing protein 15","2-ZH1672",2,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Platelet glycoprotein 4","2-ZH1672",2,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Procollagen C-endopeptidase enhancer 1","2-ZH1672",2,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Prolargin","2-ZH1672",2,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Secreted phosphoprotein 24","2-ZH1672",2,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Sodium/potassium-transporting ATPase subunit beta-3","2-ZH1672",2,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"Unconventional myosin-Ic","2-ZH1672",2,"Seili","bone","Bone
+ ","2-ZH1672
+
+Bone
+ "
+"ATP synthase subunit alpha, mitochondrial","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Amine oxidase [flavin-containing] B","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Apolipoprotein B-100","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Aspartate aminotransferase, mitochondrial","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Aspartyl aminopeptidase","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Cadherin-1","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Complement component C8 beta chain","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Dipeptidyl peptidase 1","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Fibrinogen gamma chain","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Filamin-C","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Heparin cofactor 2","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Keratin, type I cuticular Ha1","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Lactadherin","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Leucine-rich repeat-containing protein 15","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Leukocyte elastase inhibitor","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Mesoderm-specific transcript homolog protein","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Microsomal glutathione S-transferase 3","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Phospholipase B-like 1","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Protein CREG1","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Q8IUT8 TREMBL:Q8IUT8 Type I hair keratin 4 - Homo sapiens (Human).","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Receptor-type tyrosine-protein phosphatase S","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Ribonuclease 4","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Serpin B3","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Serpin B6","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Sodium/potassium-transporting ATPase subunit beta-3","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Steryl-sulfatase","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Transketolase","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Transmembrane glycoprotein NMB","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"K2C6B_HUMAN","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"KT33B_HUMAN","2-ZH1673",2,"Seili","soft_tissue","Soft
+tissue","2-ZH1673
+
+Soft
+tissue"
+"Alkaline phosphatase, tissue-nonspecific isozyme","3-ZH1676",2,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Alpha-1-antitrypsin","3-ZH1676",2,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Anoctamin-6","3-ZH1676",2,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Apolipoprotein A-I","3-ZH1676",2,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Apolipoprotein A-IV","3-ZH1676",2,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Collagen alpha-1(II) chain","3-ZH1676",2,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Collagen alpha-1(XV) chain","3-ZH1676",2,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"EMILIN-1","3-ZH1676",2,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Insulin-like growth factor-binding protein complex acid labile subunit","3-ZH1676",2,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Interferon-induced transmembrane protein 5","3-ZH1676",2,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Lactadherin","3-ZH1676",2,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Prolargin","3-ZH1676",2,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Sodium/potassium-transporting ATPase subunit beta-3","3-ZH1676",2,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"GELS_HUMAN","3-ZH1676",2,"Seili","bone","Bone
+ ","3-ZH1676
+
+Bone
+ "
+"Collagen alpha-1(I) chain","NP6090",458,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Collagen alpha-1(I) chain","NP6086",446,"Mickleburgh","bone","Bone
+ ","NP6086
+
+Bone
+ "
+"Collagen alpha-1(I) chain","NP6083",431,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Collagen alpha-1(I) chain","NP6088",423,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Collagen alpha-1(I) chain","NP6089",422,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Collagen alpha-1(I) chain","NP6085",420,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Collagen alpha-2(I) chain","NP6090",397,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Collagen alpha-2(I) chain","NP6086",380,"Mickleburgh","bone","Bone
+ ","NP6086
+
+Bone
+ "
+"Collagen alpha-2(I) chain","NP6088",374,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Collagen alpha-1(I) chain","NP6084",369,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Collagen alpha-2(I) chain","NP6089",368,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Collagen alpha-2(I) chain","NP6083",351,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Collagen alpha-1(I) chain","NP6082",344,"Mickleburgh","bone","Bone
+ ","NP6082
+
+Bone
+ "
+"Collagen alpha-2(I) chain","NP6082",323,"Mickleburgh","bone","Bone
+ ","NP6082
+
+Bone
+ "
+"Collagen alpha-2(I) chain","NP6085",314,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Collagen alpha-2(I) chain","NP6084",289,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Biglycan","NP6085",110,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Biglycan","NP6088",105,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Biglycan","NP6090",105,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Alpha-2-HS-glycoprotein","NP6088",102,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Alpha-2-HS-glycoprotein","NP6083",96,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Biglycan","NP6083",92,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Alpha-2-HS-glycoprotein","NP6085",92,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Alpha-2-HS-glycoprotein","NP6090",87,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Biglycan","NP6089",69,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Prothrombin","NP6088",65,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Chondroadherin","NP6083",63,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Chondroadherin","NP6088",61,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Prothrombin","NP6083",57,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Prothrombin","NP6085",54,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Alpha-2-HS-glycoprotein","NP6089",54,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Vimentin","NP6089",50,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Alpha-2-HS-glycoprotein","NP6086",48,"Mickleburgh","bone","Bone
+ ","NP6086
+
+Bone
+ "
+"Prothrombin","NP6090",48,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Alpha-2-HS-glycoprotein","NP6084",45,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Albumin","NP6089",44,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Biglycan","NP6082",43,"Mickleburgh","bone","Bone
+ ","NP6082
+
+Bone
+ "
+"Hemoglobin subunit beta","NP6089",43,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Lumican","NP6085",42,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Prothrombin","NP6089",42,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Alpha-2-HS-glycoprotein","NP6082",40,"Mickleburgh","bone","Bone
+ ","NP6082
+
+Bone
+ "
+"Chromogranin-A","NP6089",40,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Chondroadherin","NP6090",39,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Pigment epithelium-derived factor","NP6088",38,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Biglycan","NP6086",37,"Mickleburgh","bone","Bone
+ ","NP6086
+
+Bone
+ "
+"Alpha-1-antitrypsin","NP6089",37,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Pigment epithelium-derived factor","NP6083",35,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Lumican","NP6090",35,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Decorin","NP6085",30,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Osteomodulin","NP6085",30,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Lumican","NP6088",30,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Lumican","NP6083",28,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Osteomodulin","NP6083",28,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Biglycan","NP6084",28,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Lumican","NP6084",28,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Chondroadherin","NP6085",28,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Prolargin","NP6089",28,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Lumican","NP6089",27,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Chondroadherin","NP6089",26,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Decorin","NP6090",26,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Albumin","NP6085",25,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Osteomodulin","NP6088",25,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Albumin","NP6090",25,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Decorin","NP6089",24,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Haptoglobin","NP6089",24,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Osteomodulin","NP6090",24,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Albumin","NP6088",23,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Collagen alpha-3(VI) chain","NP6089",23,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Collagen alpha-2(V) chain","NP6084",21,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"SPARC","NP6085",21,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Lumican","NP6086",21,"Mickleburgh","bone","Bone
+ ","NP6086
+
+Bone
+ "
+"Pigment epithelium-derived factor","NP6090",21,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Albumin","NP6083",19,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Pigment epithelium-derived factor","NP6085",19,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Collagen alpha-1(II) chain","NP6084",18,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"SPARC","NP6090",18,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Lumican","NP6082",17,"Mickleburgh","bone","Bone
+ ","NP6082
+
+Bone
+ "
+"Vitronectin","NP6083",17,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Myeloperoxidase","NP6084",17,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Fibromodulin","NP6089",17,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Immunoglobulin heavy constant gamma 3","NP6089",16,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Immunoglobulin kappa constant","NP6089",16,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Osteomodulin","NP6089",16,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Chondroadherin","NP6082",15,"Mickleburgh","bone","Bone
+ ","NP6082
+
+Bone
+ "
+"SPARC","NP6083",15,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Vitronectin","NP6088",15,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Collagen alpha-2(V) chain","NP6089",15,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Immunoglobulin heavy constant alpha 1","NP6089",15,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Serotransferrin","NP6089",15,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Vitronectin","NP6090",15,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Chondroadherin","NP6084",14,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Lactotransferrin","NP6084",14,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"SPARC","NP6088",14,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Hemopexin","NP6089",14,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Vitronectin","NP6089",14,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Decorin","NP6082",13,"Mickleburgh","bone","Bone
+ ","NP6082
+
+Bone
+ "
+"Prothrombin","NP6084",13,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Vitronectin","NP6085",13,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Collagen alpha-2(V) chain","NP6086",13,"Mickleburgh","bone","Bone
+ ","NP6086
+
+Bone
+ "
+"Decorin","NP6088",13,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Prothrombin","NP6082",12,"Mickleburgh","bone","Bone
+ ","NP6082
+
+Bone
+ "
+"Decorin","NP6083",12,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Complement C3","NP6089",12,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Ferritin light chain","NP6089",12,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Histone H4","NP6089",12,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Albumin","NP6084",11,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Apolipoprotein A-I","NP6089",11,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Immunoglobulin heavy constant gamma 1","NP6089",11,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Pigment epithelium-derived factor","NP6082",10,"Mickleburgh","bone","Bone
+ ","NP6082
+
+Bone
+ "
+"Prothrombin","NP6086",10,"Mickleburgh","bone","Bone
+ ","NP6086
+
+Bone
+ "
+"Hemoglobin subunit alpha","NP6089",10,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Kininogen-1","NP6089",10,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Peroxiredoxin-2","NP6089",10,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Tenascin","NP6089",10,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Transthyretin","NP6089",10,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Vitronectin","NP6082",9,"Mickleburgh","bone","Bone
+ ","NP6082
+
+Bone
+ "
+"Protein S100-A8","NP6084",9,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Collagen alpha-2(V) chain","NP6085",9,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Histone H4","NP6085",9,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Kininogen-1","NP6085",9,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Kininogen-1","NP6088",9,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Collagen alpha-1(VI) chain","NP6089",9,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Leucine-rich alpha-2-glycoprotein","NP6089",9,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Pigment epithelium-derived factor","NP6089",9,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Histone H4","NP6090",9,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Collagen alpha-2(V) chain","NP6082",8,"Mickleburgh","bone","Bone
+ ","NP6082
+
+Bone
+ "
+"Vitronectin","NP6084",8,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Decorin","NP6086",8,"Mickleburgh","bone","Bone
+ ","NP6086
+
+Bone
+ "
+"Collagen alpha-2(V) chain","NP6088",8,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Alpha-1-antichymotrypsin","NP6089",8,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Histone H2A type 1","NP6089",8,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Inter-alpha-trypsin inhibitor heavy chain H4","NP6089",8,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Thrombospondin-1","NP6089",8,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Collagen alpha-2(V) chain","NP6090",8,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Thrombospondin-1","NP6083",7,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Protein S100-A9","NP6084",7,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Histone H2B type 2-F","NP6085",7,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Coagulation factor X","NP6088",7,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Alpha-1B-glycoprotein","NP6089",7,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Complement C4-A","NP6089",7,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Fibrinogen beta chain","NP6089",7,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Inter-alpha-trypsin inhibitor heavy chain H1","NP6089",7,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Mimecan","NP6089",7,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Osteopontin","NP6089",7,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Secretogranin-1","NP6089",7,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"SPARC","NP6082",6,"Mickleburgh","bone","Bone
+ ","NP6082
+
+Bone
+ "
+"Coagulation factor X","NP6083",6,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Collagen alpha-1(V) chain","NP6084",6,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Kininogen-1","NP6084",6,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Prolargin","NP6084",6,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Tetranectin","NP6085",6,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Thrombospondin-1","NP6088",6,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Aggrecan core protein","NP6089",6,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Alpha-1-acid glycoprotein 1","NP6089",6,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Coagulation factor IX","NP6089",6,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Collagen alpha-1(III) chain","NP6089",6,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Collagen alpha-1(V) chain","NP6089",6,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Extracellular superoxide dismutase [Cu-Zn]","NP6089",6,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Histone H2B type 2-F","NP6089",6,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Immunoglobulin lambda constant 2","NP6089",6,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Insulin-like growth factor-binding protein 1","NP6089",6,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Keratin, type II cytoskeletal 1","NP6089",6,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Prelamin-A/C","NP6089",6,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"SPARC","NP6089",6,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Tetranectin","NP6089",6,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Versican core protein","NP6089",6,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Kininogen-1","NP6083",5,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Transthyretin","NP6083",5,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Collagen alpha-1(III) chain","NP6084",5,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Ferritin light chain","NP6084",5,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"SPARC","NP6084",5,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Tetranectin","NP6084",5,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Hemoglobin subunit alpha-2","NP6085",5,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Histone H2A type 1","NP6085",5,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Integrin-binding sialoprotein","NP6085",5,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Pigment epithelium-derived factor","NP6086",5,"Mickleburgh","bone","Bone
+ ","NP6086
+
+Bone
+ "
+"Protein S100-A9","NP6086",5,"Mickleburgh","bone","Bone
+ ","NP6086
+
+Bone
+ "
+"Vitronectin","NP6086",5,"Mickleburgh","bone","Bone
+ ","NP6086
+
+Bone
+ "
+"Coagulation factor IX","NP6088",5,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Alpha-2-macroglobulin","NP6089",5,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Asporin","NP6089",5,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Clusterin","NP6089",5,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Coagulation factor X","NP6089",5,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Collagen alpha-1(II) chain","NP6089",5,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Inter-alpha-trypsin inhibitor heavy chain H2","NP6089",5,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Vitamin K-dependent protein C","NP6089",5,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Haptoglobin","NP6090",5,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Integrin-binding sialoprotein","NP6090",5,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Kininogen-1","NP6090",5,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Procollagen C-endopeptidase enhancer 1","NP6090",5,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Thrombospondin-1","NP6090",5,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Aggrecan core protein","NP6084",4,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Decorin","NP6084",4,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Neutrophil defensin 1","NP6084",4,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Secreted phosphoprotein 24","NP6084",4,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Serotransferrin","NP6084",4,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"C-type lectin domain family 11 member A","NP6085",4,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Coagulation factor X","NP6085",4,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Collagen alpha-1(V) chain","NP6085",4,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Dermatopontin","NP6085",4,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Fibromodulin","NP6085",4,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Procollagen C-endopeptidase enhancer 1","NP6085",4,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Thrombospondin-1","NP6085",4,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Vimentin","NP6085",4,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Chondroadherin","NP6086",4,"Mickleburgh","bone","Bone
+ ","NP6086
+
+Bone
+ "
+"SPARC","NP6086",4,"Mickleburgh","bone","Bone
+ ","NP6086
+
+Bone
+ "
+"Procollagen C-endopeptidase enhancer 1","NP6088",4,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Tetranectin","NP6088",4,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Vitamin K-dependent protein C","NP6088",4,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Collagen alpha-1(XII) chain","NP6089",4,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Fatty acid-binding protein, adipocyte","NP6089",4,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Ferritin heavy chain","NP6089",4,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Immunoglobulin heavy constant gamma 2","NP6089",4,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Keratin, type II cytoskeletal 8","NP6089",4,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Nucleophosmin","NP6089",4,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Serum amyloid P-component","NP6089",4,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Beta-2-microglobulin","NP6090",4,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Coagulation factor IX","NP6090",4,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Coagulation factor X","NP6090",4,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Dermatopontin","NP6090",4,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Extracellular superoxide dismutase [Cu-Zn]","NP6090",4,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Transthyretin","NP6090",4,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Chromogranin-A","NP6082",3,"Mickleburgh","bone","Bone
+ ","NP6082
+
+Bone
+ "
+"Osteomodulin","NP6082",3,"Mickleburgh","bone","Bone
+ ","NP6082
+
+Bone
+ "
+"C-type lectin domain family 11 member A","NP6083",3,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Coagulation factor IX","NP6083",3,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Collagen alpha-2(V) chain","NP6083",3,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Extracellular superoxide dismutase [Cu-Zn]","NP6083",3,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Insulin-like growth factor-binding protein 5","NP6083",3,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Osteocalcin","NP6083",3,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Procollagen C-endopeptidase enhancer 1","NP6083",3,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Tetranectin","NP6083",3,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Vimentin","NP6083",3,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Azurocidin","NP6084",3,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Immunoglobulin gamma-1 heavy chain","NP6084",3,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Immunoglobulin kappa light chain","NP6084",3,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Osteomodulin","NP6084",3,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Osteopontin","NP6084",3,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Transthyretin","NP6084",3,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Collagen alpha-1(XII) chain","NP6085",3,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Extracellular superoxide dismutase [Cu-Zn]","NP6085",3,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Transthyretin","NP6085",3,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Albumin","NP6086",3,"Mickleburgh","bone","Bone
+ ","NP6086
+
+Bone
+ "
+"Dermatopontin","NP6088",3,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Integrin-binding sialoprotein","NP6088",3,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Osteocalcin","NP6088",3,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Protein Z-dependent protease inhibitor","NP6088",3,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Transthyretin","NP6088",3,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Antithrombin-III","NP6089",3,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Beta-2-microglobulin","NP6089",3,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Ceruloplasmin","NP6089",3,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Complement C1q subcomponent subunit A","NP6089",3,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Complement C1q subcomponent subunit B","NP6089",3,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Dermatopontin","NP6089",3,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Fibronectin","NP6089",3,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Pentraxin-related protein PTX3","NP6089",3,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Vitamin D-binding protein","NP6089",3,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"C-type lectin domain family 11 member A","NP6090",3,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Immunoglobulin kappa light chain","NP6090",3,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Osteocalcin","NP6090",3,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Tetranectin","NP6090",3,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Versican core protein","NP6090",3,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Vimentin","NP6090",3,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Albumin","NP6082",2,"Mickleburgh","bone","Bone
+ ","NP6082
+
+Bone
+ "
+"Coagulation factor IX","NP6082",2,"Mickleburgh","bone","Bone
+ ","NP6082
+
+Bone
+ "
+"Coagulation factor X","NP6082",2,"Mickleburgh","bone","Bone
+ ","NP6082
+
+Bone
+ "
+"Thrombospondin-1","NP6082",2,"Mickleburgh","bone","Bone
+ ","NP6082
+
+Bone
+ "
+"Transthyretin","NP6082",2,"Mickleburgh","bone","Bone
+ ","NP6082
+
+Bone
+ "
+"Dermatopontin","NP6083",2,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Integrin-binding sialoprotein","NP6083",2,"Mickleburgh","bone","Bone
+ ","NP6083
+
+Bone
+ "
+"Alpha-1-antitrypsin","NP6084",2,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Coagulation factor IX","NP6084",2,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Complement C1q subcomponent subunit A","NP6084",2,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Neutrophil elastase","NP6084",2,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Nucleophosmin","NP6084",2,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Osteocalcin","NP6084",2,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Versican core protein (Fragments)","NP6084",2,"Mickleburgh","bone","Bone
+ ","NP6084
+
+Bone
+ "
+"Alkaline phosphatase, tissue-nonspecific isozyme","NP6085",2,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Collagen alpha-2(XI) chain","NP6085",2,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Kazal-type serine protease inhibitor domain-containing protein 1","NP6085",2,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Mimecan","NP6085",2,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Nucleobindin-2","NP6085",2,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Osteocalcin","NP6085",2,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Osteopontin","NP6085",2,"Mickleburgh","bone","Bone
+ ","NP6085
+
+Bone
+ "
+"Azurocidin","NP6086",2,"Mickleburgh","bone","Bone
+ ","NP6086
+
+Bone
+ "
+"Coagulation factor X","NP6086",2,"Mickleburgh","bone","Bone
+ ","NP6086
+
+Bone
+ "
+"Dermatopontin","NP6086",2,"Mickleburgh","bone","Bone
+ ","NP6086
+
+Bone
+ "
+"Protein S100-A8","NP6086",2,"Mickleburgh","bone","Bone
+ ","NP6086
+
+Bone
+ "
+"Transthyretin","NP6086",2,"Mickleburgh","bone","Bone
+ ","NP6086
+
+Bone
+ "
+"C-type lectin domain family 11 member A","NP6088",2,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Collagen alpha-1(V) chain","NP6088",2,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Collagen alpha-1(XII) chain","NP6088",2,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Insulin-like growth factor-binding protein 5","NP6088",2,"Mickleburgh","bone","Bone
+ ","NP6088
+
+Bone
+ "
+"Alkaline phosphatase, tissue-nonspecific isozyme","NP6089",2,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"All-trans-retinol dehydrogenase [NAD(+)] ADH1B","NP6089",2,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Carbonic anhydrase 1","NP6089",2,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Collagen alpha-2(VI) chain","NP6089",2,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Complement C1q subcomponent subunit C","NP6089",2,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Gelsolin","NP6089",2,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Hemoglobin subunit delta","NP6089",2,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Immunoglobulin kappa variable 3-20","NP6089",2,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Integrin-binding sialoprotein","NP6089",2,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Keratin, type I cytoskeletal 18","NP6089",2,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Large ribosomal subunit protein P2","NP6089",2,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Osteocalcin","NP6089",2,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Transforming growth factor-beta-induced protein ig-h3","NP6089",2,"Mickleburgh","bone","Bone
+ ","NP6089
+
+Bone
+ "
+"Alpha-1-antitrypsin","NP6090",2,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Collagen alpha-2(XI) chain","NP6090",2,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Fibromodulin","NP6090",2,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Histone H2A type 1","NP6090",2,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Osteopontin","NP6090",2,"Mickleburgh","bone","Bone
+ ","NP6090
+
+Bone
+ "
+"Collagen alpha-1(I) chain","293",358,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Collagen alpha-1(I) chain","296",306,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Collagen alpha-1(I) chain","319",278,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Collagen alpha-2(I) chain","293",233,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Collagen alpha-2(I) chain","319",207,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Collagen alpha-2(I) chain","296",199,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Collagen alpha-1(I) chain","302",162,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Collagen alpha-1(I) chain","318",158,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Chondroadherin","319",126,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Collagen alpha-2(I) chain","302",119,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Collagen alpha-2(I) chain","318",106,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Prothrombin","319",106,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Chondroadherin","293",88,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Chondroadherin","318",87,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Chondroadherin","296",82,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Biglycan","319",76,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Chondroadherin","302",75,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Collagen alpha-2(I) chain","294",68,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Pigment epithelium-derived factor","319",68,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Collagen alpha-1(I) chain","294",66,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Biglycan","318",61,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Biglycan","293",58,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Prothrombin","293",58,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Collagen alpha-2(I) chain","301",53,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Vitronectin","319",49,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Biglycan","296",49,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Pigment epithelium-derived factor","293",49,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Pigment epithelium-derived factor","318",48,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Albumin","293",48,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Pigment epithelium-derived factor","302",47,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Collagen alpha-1(I) chain","301",46,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Vitronectin","293",43,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Chondroadherin","294",39,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Alpha-2-HS-glycoprotein","319",39,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Lumican","319",35,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Prothrombin","302",35,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Pigment epithelium-derived factor","296",33,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Prothrombin","296",33,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Alpha-2-HS-glycoprotein","293",33,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Vitronectin","296",31,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Albumin","319",30,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Chondroadherin","301",29,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Alpha-2-HS-glycoprotein","302",29,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Pigment epithelium-derived factor","301",28,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Prothrombin","318",25,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Vitronectin","302",24,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Biglycan","294",23,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Pigment epithelium-derived factor","294",22,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Periostin","293",22,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Vitronectin","318",21,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Coagulation factor IX","319",21,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Albumin","296",21,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Albumin","302",21,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Osteomodulin","319",19,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Dermatopontin","293",19,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Coagulation factor VII","319",18,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Eosinophil peroxidase","296",18,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Lumican","293",18,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Albumin","318",17,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Dermatopontin","319",17,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Prothrombin","301",17,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Alpha-2-HS-glycoprotein","296",15,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Lumican","302",15,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Vitronectin","294",14,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Collagen alpha-1(V) chain","319",14,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Collagen alpha-1(XXII) chain","319",14,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Eosinophil peroxidase","294",13,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Eosinophil peroxidase","319",13,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Lumican","296",13,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Collagen alpha-1(V) chain","293",13,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Coagulation factor X","319",12,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Decorin","319",12,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Olfactomedin-like protein 3","319",12,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Protein Z-dependent protease inhibitor","319",12,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Albumin","294",11,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Coagulation factor IX","318",11,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Lumican","318",11,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Coagulation factor IX","296",11,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Coagulation factor IX","302",11,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Collagen alpha-1(XII) chain","293",11,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Decorin","293",11,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Eosinophil peroxidase","293",11,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Collagen alpha-1(XII) chain","318",10,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Bone marrow proteoglycan","296",10,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Dermatopontin","296",10,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Collagen alpha-1(V) chain","302",10,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Dermatopontin","302",10,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Coagulation factor X","293",10,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Insulin-like growth factor-binding protein 5","293",10,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Kininogen-1","293",10,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Alpha-2-HS-glycoprotein","318",9,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Osteocalcin","319",9,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Vitronectin","301",9,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Coagulation factor IX","294",8,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Lumican","294",8,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Prothrombin","294",8,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Decorin","318",8,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Dermatopontin","318",8,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Collagen alpha-1(XII) chain","319",8,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Matrix Gla protein","319",8,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Albumin","301",8,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Coagulation factor IX","301",8,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Coagulation factor IX","293",8,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Protein Z-dependent protease inhibitor","293",8,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Thrombospondin-1","293",8,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Osteomodulin","318",7,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Collagen alpha-1(V) chain","296",7,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Protein Z-dependent protease inhibitor","296",7,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Lumican","301",7,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Asporin","293",7,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Collagen alpha-3(VI) chain","293",7,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Neutrophil defensin 1","293",7,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Osteomodulin","293",7,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Coagulation factor VII","318",6,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Insulin-like growth factor II","319",6,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Kininogen-1","319",6,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Osteocalcin","296",6,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Protein Z-dependent protease inhibitor","301",6,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Decorin","302",6,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Coagulation factor VII","293",6,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Collagen alpha-1(XXII) chain","293",6,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Olfactomedin-like protein 3","293",6,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Osteocalcin","293",6,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Secreted phosphoprotein 24","293",6,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Tetranectin","319",5,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Cathepsin G","296",5,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Decorin","296",5,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Olfactomedin-like protein 3","296",5,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Osteomodulin","296",5,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Collagen alpha-1(XII) chain","301",5,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Insulin-like growth factor II","302",5,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Kininogen-1","302",5,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Protein Z-dependent protease inhibitor","302",5,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Bone marrow proteoglycan","293",5,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Collagen alpha-2(V) chain","293",5,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Matrix Gla protein","293",5,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Vitamin K-dependent protein C","293",5,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Bone marrow proteoglycan","294",4,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Cathepsin G","294",4,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Coagulation factor VII","294",4,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Myeloperoxidase","294",4,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Osteocalcin","294",4,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Bone marrow proteoglycan","319",4,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Cellular retinoic acid-binding protein 2","319",4,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Insulin-like growth factor-binding protein complex acid labile subunit","319",4,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Integrin-binding sialoprotein","319",4,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Neutrophil defensin 1","319",4,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Platelet glycoprotein 4","319",4,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Procollagen C-endopeptidase enhancer 1","319",4,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Serine protease HTRA1","319",4,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Thrombospondin-1","319",4,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Vitrin","319",4,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Coagulation factor VII","296",4,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Coagulation factor X","296",4,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Alpha-2-HS-glycoprotein","301",4,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Dermatopontin","301",4,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Prothymosin alpha","301",4,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Collagen alpha-1(XII) chain","302",4,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Apolipoprotein E","293",4,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Basement membrane-specific heparan sulfate proteoglycan core protein","293",4,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"C-type lectin domain family 11 member A","293",4,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Insulin-like growth factor II","293",4,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Integrin-binding sialoprotein","293",4,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Alpha-2-HS-glycoprotein","294",3,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Collagen alpha-1(XXII) chain","294",3,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Dermatopontin","294",3,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Neutrophil defensin 1","294",3,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Osteomodulin","294",3,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Alpha-enolase","318",3,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Coagulation factor X","318",3,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Collagen alpha-1(XXII) chain","318",3,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Eosinophil peroxidase","318",3,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Lactadherin","318",3,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Matrix Gla protein","318",3,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Protein Z-dependent protease inhibitor","318",3,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Apolipoprotein E","319",3,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Basement membrane-specific heparan sulfate proteoglycan core protein","319",3,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"C-type lectin domain family 11 member A","319",3,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Carboxypeptidase Z","319",3,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Cathepsin G","319",3,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Inter-alpha-trypsin inhibitor heavy chain H4","319",3,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Myeloblastin","319",3,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Vitamin K-dependent protein C","319",3,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Vitamin K-dependent protein S","319",3,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Collagen alpha-1(XXII) chain","296",3,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Collagen alpha-2(V) chain","296",3,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Insulin-like growth factor II","296",3,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Kininogen-1","301",3,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Osteocalcin","301",3,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Secreted phosphoprotein 24","301",3,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Collagen alpha-1(XXII) chain","302",3,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Neutrophil defensin 1","302",3,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Osteocalcin","302",3,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Osteomodulin","302",3,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Sushi repeat-containing protein SRPX","302",3,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Amyloid-beta precursor protein","293",3,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Cathepsin G","293",3,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Complement component C8 beta chain","293",3,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Endoplasmin","293",3,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Coagulation factor X","294",2,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Myeloblastin","294",2,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Neutrophil elastase","294",2,"Sawafuji","bone","Bone
+ ","294
+
+Bone
+ "
+"Apolipoprotein E","318",2,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Basement membrane-specific heparan sulfate proteoglycan core protein","318",2,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Glyceraldehyde-3-phosphate dehydrogenase","318",2,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Integrin-binding sialoprotein","318",2,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Keratin, type II cytoskeletal 1","318",2,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Myeloblastin","318",2,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Olfactomedin-like protein 3","318",2,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Pyruvate kinase PKM","318",2,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Thrombospondin-1","318",2,"Sawafuji","bone","Bone
+ ","318
+
+Bone
+ "
+"Carbohydrate sulfotransferase 13","319",2,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Collagen alpha-2(XI) chain","319",2,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Collagen alpha-3(VI) chain","319",2,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Complement C1q subcomponent subunit B","319",2,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Complement C1q subcomponent subunit C","319",2,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Complement C4-A","319",2,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Complement component C8 beta chain","319",2,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Complement component C9","319",2,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Extracellular superoxide dismutase [Cu-Zn]","319",2,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Peptidyl-prolyl cis-trans isomerase B","319",2,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Protein S100-A8","319",2,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Transthyretin","319",2,"Sawafuji","bone","Bone
+ ","319
+
+Bone
+ "
+"Apolipoprotein E","296",2,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Basement membrane-specific heparan sulfate proteoglycan core protein","296",2,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Collagen alpha-1(XII) chain","296",2,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Collagen alpha-3(VI) chain","296",2,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Kininogen-1","296",2,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Neutrophil defensin 1","296",2,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Tetranectin","296",2,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Thrombospondin-1","296",2,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Vitamin K-dependent protein C","296",2,"Sawafuji","bone","Bone
+ ","296
+
+Bone
+ "
+"Asporin","301",2,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Collagen alpha-1(XXII) chain","301",2,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Eosinophil peroxidase","301",2,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Glyceraldehyde-3-phosphate dehydrogenase","301",2,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Heterogeneous nuclear ribonucleoprotein C","301",2,"Sawafuji","bone","Bone
+ ","301
+
+Bone
+ "
+"Apolipoprotein E","302",2,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Basement membrane-specific heparan sulfate proteoglycan core protein","302",2,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Coagulation factor X","302",2,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Collagen alpha-3(VI) chain","302",2,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Integrin-binding sialoprotein","302",2,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Neutrophil defensin 2","302",2,"Sawafuji","bone","Bone
+ ","302
+
+Bone
+ "
+"Collagen alpha-2(VI) chain","293",2,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Collagen alpha-2(XI) chain","293",2,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Complement C3","293",2,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Immunoglobulin superfamily member 8","293",2,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Inter-alpha-trypsin inhibitor heavy chain H4","293",2,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Mimecan","293",2,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Myeloblastin","293",2,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Phosphoethanolamine/phosphocholine phosphatase","293",2,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Proteoglycan 3","293",2,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Tetranectin","293",2,"Sawafuji","bone","Bone
+ ","293
+
+Bone
+ "
+"Collagen alpha-1(I) chain","BS5981",222,"Ntasi","bone","Bone
+ ","BS5981
+
+Bone
+ "
+"Collagen alpha-1(I) chain","BS5982",151,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Collagen alpha-2(I) chain","BS5981",131,"Ntasi","bone","Bone
+ ","BS5981
+
+Bone
+ "
+"Collagen alpha-2(I) chain","BS5982",111,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Chondroadherin","BS5982",80,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Albumin","BS5982",60,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Biglycan","BS5982",50,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Alpha-2-HS-glycoprotein","BS5982",48,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Vitronectin","BS5982",44,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Collagen alpha-2(XI) chain","BS5982",26,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Pigment epithelium-derived factor","BS5982",26,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Protein Z-dependent protease inhibitor","BS5982",21,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Fibronectin","BS5982",15,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Osteomodulin","BS5982",15,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Thrombospondin-1","BS5982",15,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Prothrombin","BS5982",13,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Collagen alpha-1(XI) chain","BS5982",10,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Collagen alpha-1(II) chain","BS5982",9,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Antithrombin-III","BS5982",7,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Collagen alpha-1(XII) chain","BS5982",7,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Lumican","BS5982",7,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Collagen alpha-1(IX) chain","BS5982",6,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Collagen alpha-1(V) chain","BS5982",5,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Basement membrane-specific heparan sulfate proteoglycan core protein","BS5982",4,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Collagen alpha-2(V) chain","BS5982",3,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Endoplasmin","BS5982",3,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Kininogen-1","BS5982",3,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Matrilin-3","BS5982",3,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Tetranectin","BS5982",3,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Collagen alpha-2(V) chain","BS5981",2,"Ntasi","bone","Bone
+ ","BS5981
+
+Bone
+ "
+"Vitronectin","BS5981",2,"Ntasi","bone","Bone
+ ","BS5981
+
+Bone
+ "
+"Collagen alpha-1(X) chain","BS5982",2,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Collagenase 3","BS5982",2,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "
+"Decorin","BS5982",2,"Ntasi","bone","Bone
+ ","BS5982
+
+Bone
+ "

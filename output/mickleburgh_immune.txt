@@ -1,0 +1,33 @@
+Alpha-1-acid glycoprotein 1
+Alpha-1-antichymotrypsin
+Alpha-1-antitrypsin
+Alpha-1B-glycoprotein
+Alpha-2-macroglobulin
+Apolipoprotein A-I
+Azurocidin
+Complement C1q subcomponent subunit A
+Complement C1q subcomponent subunit B
+Complement C1q subcomponent subunit C
+Complement C3
+Complement C4-A
+Haptoglobin
+Hemopexin
+Immunoglobulin gamma-1 heavy chain
+Immunoglobulin heavy constant alpha 1
+Immunoglobulin heavy constant gamma 1
+Immunoglobulin heavy constant gamma 2
+Immunoglobulin heavy constant gamma 3
+Immunoglobulin kappa constant
+Immunoglobulin kappa light chain
+Immunoglobulin kappa variable 3-20
+Immunoglobulin lambda constant 2
+Inter-alpha-trypsin inhibitor heavy chain H4
+Myeloperoxidase
+Neutrophil defensin 1
+Neutrophil elastase
+Osteopontin
+Pentraxin-related protein PTX3
+Protein S100-A8
+Protein S100-A9
+Serum amyloid P-component
+Vimentin

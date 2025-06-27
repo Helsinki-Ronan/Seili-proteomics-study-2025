@@ -1,0 +1,171 @@
+"protein_name" "sample_ID" "psm" "study" "material" "material2" "x_label"
+"1" "Collagen alpha-1(I) chain" "BS5981" 222 "Ntasi" "bone" "Bone
+ " "BS5981
+
+Bone
+ "
+"2" "Collagen alpha-1(I) chain" "BS5982" 151 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"3" "Collagen alpha-2(I) chain" "BS5981" 131 "Ntasi" "bone" "Bone
+ " "BS5981
+
+Bone
+ "
+"4" "Collagen alpha-2(I) chain" "BS5982" 111 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"5" "Chondroadherin" "BS5982" 80 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"6" "Albumin" "BS5982" 60 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"7" "Biglycan" "BS5982" 50 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"8" "Alpha-2-HS-glycoprotein" "BS5982" 48 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"9" "Vitronectin" "BS5982" 44 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"10" "Collagen alpha-2(XI) chain" "BS5982" 26 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"11" "Pigment epithelium-derived factor" "BS5982" 26 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"12" "Protein Z-dependent protease inhibitor" "BS5982" 21 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"13" "Fibronectin" "BS5982" 15 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"14" "Osteomodulin" "BS5982" 15 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"15" "Thrombospondin-1" "BS5982" 15 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"16" "Prothrombin" "BS5982" 13 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"17" "Collagen alpha-1(XI) chain" "BS5982" 10 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"18" "Collagen alpha-1(II) chain" "BS5982" 9 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"19" "Antithrombin-III" "BS5982" 7 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"20" "Collagen alpha-1(XII) chain" "BS5982" 7 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"21" "Lumican" "BS5982" 7 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"22" "Collagen alpha-1(IX) chain" "BS5982" 6 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"23" "Collagen alpha-1(V) chain" "BS5982" 5 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"24" "Basement membrane-specific heparan sulfate proteoglycan core protein" "BS5982" 4 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"25" "Collagen alpha-2(V) chain" "BS5982" 3 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"26" "Endoplasmin" "BS5982" 3 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"27" "Kininogen-1" "BS5982" 3 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"28" "Matrilin-3" "BS5982" 3 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"29" "Tetranectin" "BS5982" 3 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"30" "Collagen alpha-2(V) chain" "BS5981" 2 "Ntasi" "bone" "Bone
+ " "BS5981
+
+Bone
+ "
+"31" "Vitronectin" "BS5981" 2 "Ntasi" "bone" "Bone
+ " "BS5981
+
+Bone
+ "
+"32" "Collagen alpha-1(X) chain" "BS5982" 2 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"33" "Collagenase 3" "BS5982" 2 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "
+"34" "Decorin" "BS5982" 2 "Ntasi" "bone" "Bone
+ " "BS5982
+
+Bone
+ "

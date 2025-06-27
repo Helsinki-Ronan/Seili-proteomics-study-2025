@@ -1,0 +1,19 @@
+Alpha-1-acid glycoprotein 1
+Alpha-1-antichymotrypsin
+Alpha-1-antitrypsin
+Alpha-2-macroglobulin
+Apolipoprotein A-I
+Azurocidin
+Complement C3
+Haptoglobin
+Immunoglobulin gamma-1 heavy chain
+Immunoglobulin heavy constant gamma 2
+Immunoglobulin kappa constant
+Immunoglobulin kappa variable 3-20
+Immunoglobulin lambda constant 2
+Myeloperoxidase
+Neutrophil elastase
+Osteopontin
+Protein S100-A8
+Protein S100-A9
+Serum amyloid P-component
